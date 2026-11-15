@@ -1,0 +1,1501 @@
+policy_id,age,region,policy_type,tenure_months,monthly_premium_rm,claims_count,late_payments,support_tickets,churned,churn_reason
+POL-10000,44, Penang ,Life Protection,46,164.52,0,1,2,0,
+POL-10001,30,Kuala Lumpur,Investment-Linked,45,315.41,0,1,1,0,
+POL-10002,49,selangor,Motor Comprehensive,12,160.92,0,1,2,1,Premium too expensive
+POL-10003,51,Kuala Lumpur,Life Protection,3,129,0,1,0,1,Claim rejected or dissatisfied
+POL-10004,21,Selangor,Motor Comprehensive,11,107.93,0,0,1,1,Relocated or moved abroad
+POL-10005,27,Selangor,Investment-Linked,10,433.28,1,1,0,0,
+POL-10006,42,Kuala Lumpur,Life Protection,27,121.12,1,0,0,0,
+POL-10007,38, Penang ,Motor Comprehensive,26,116.76,0,0,0,0,
+POL-10008,41,Selangor,Investment-Linked,22,498.92,0,2,2,1,Competitor offered better price
+POL-10009,32,Kuala Lumpur,Medical & Health,35,221.38,0,0,0,0,
+POL-10010,51,Kuala Lumpur,Investment-Linked,108,519.06,2,1,1,0,
+POL-10011,50,Selangor,Medical & Health,21,278.8,1,0,0,0,
+POL-10012,42,Selangor,Motor Comprehensive,30,120.23,0,1,0,0,
+POL-10013,53,Selangor,Motor Comprehensive,25,66.91,1,0,0,0,
+POL-10014,46,Kuala Lumpur,Motor Comprehensive,16,91.02,0,0,1,0,
+POL-10015,32,Penang,Life Protection,38,193.64,0,2,1,0,
+POL-10016,45, Sarawak ,Motor Comprehensive,21,81.45,0,2,0,0,
+POL-10017,30, Selangor ,Medical & Health,13,193.53,1,,0,0,
+POL-10018,51,Johor,Medical & Health,14,228.54,0,0,0,0,
+POL-10019,40,Penang,Medical & Health,47,303.23,2,1,1,0,
+POL-10020,39,Sarawak,Motor Comprehensive,37,103.93,1,0,0,0,
+POL-10021,34,Johor,Life Protection,17,136.22,0,0,1,0,
+POL-10022,54,Sarawak,Medical & Health,34,207.26,0,1,0,0,
+POL-10023,39, Sarawak ,Investment-Linked,25,414.84,0,0,0,0,
+POL-10024,36,Penang,Life Protection,31,153.95,0,1,0,0,
+POL-10025,37,Selangor,Life Protection,16,207.99,3,0,0,0,
+POL-10026,47,Kuala Lumpur,Life Protection,11,131.02,0,1,1,1,No longer needs coverage
+POL-10027,45,Kuala Lumpur,Medical & Health,20,216.4,1,1,2,1,No longer needs coverage
+POL-10028,46,Selangor,Motor Comprehensive,12,134.13,0,,1,0,
+POL-10029,46,Selangor,Life Protection,12,144.77,0,0,0,0,
+POL-10030,65,Selangor,Medical & Health,8,259.05,0,0,1,0,
+POL-10031,37, Selangor ,Investment-Linked,3,394.42,0,1,2,1,Relocated or moved abroad
+POL-10032,35,Selangor,Motor Comprehensive,18,146.16,0,0,0,0,
+POL-10033,32,Penang,Motor Comprehensive,53,125.97,0,1,1,0,
+POL-10034,48,Kuala Lumpur,Investment-Linked,45,417.49,1,1,0,1,Premium too expensive
+POL-10035,53,kuala lumpur,Investment-Linked,70,324.43,0,0,0,0,
+POL-10036,40,Penang,Life Protection,11,136.66,0,1,0,1,Premium too expensive
+POL-10037,32,Penang,Motor Comprehensive,40,162.97,0,0,1,0,
+POL-10038,32,Sarawak,Motor Comprehensive,23,140.66,1,0,0,0,
+POL-10039,48,Penang,Medical & Health,14,162.61,0,0,1,0,
+POL-10040,49, Sarawak ,Medical & Health,49,219.71,0,1,2,1,Poor customer service
+POL-10041,47, Selangor ,Medical & Health,23,116.01,1,1,0,0,
+POL-10042,34,Selangor,Motor Comprehensive,5,103.96,0,1,1,0,
+POL-10043,44, Kuala Lumpur ,Motor Comprehensive,44,152.59,0,0,1,1,Claim rejected or dissatisfied
+POL-10044,42,Johor,Motor Comprehensive,33,116.3,2,2,2,0,
+POL-10045,43,Sarawak,Life Protection,28,164.79,0,0,0,0,
+POL-10046,51,Selangor,Medical & Health,9,98.79,0,1,3,1,Poor customer service
+POL-10047,43,Selangor,Life Protection,30,145.05,0,0,0,0,
+POL-10048,48,Selangor,Life Protection,64,174.12,4,0,0,1,Claim rejected or dissatisfied
+POL-10049,42,Kuala Lumpur,Investment-Linked,32,426.88,1,,0,1,Claim rejected or dissatisfied
+POL-10050,44,kuala lumpur,Investment-Linked,7,483.36,0,1,1,1,No longer needs coverage
+POL-10051,48,Kuala Lumpur,Investment-Linked,34,360.54,1,1,0,0,
+POL-10052,25,Sarawak,Investment-Linked,32,364.58,3,2,1,1,Competitor offered better price
+POL-10053,37,Selangor,Investment-Linked,42,272.36,0,0,1,0,
+POL-10054,36,penang,Life Protection,32,152.02,0,0,0,0,
+POL-10055,34,Johor,Medical & Health,12,153.2,1,1,0,0,
+POL-10056,38,Kuala Lumpur,Medical & Health,27,132.31,1,1,2,0,
+POL-10057,57,kuala lumpur,Life Protection,21,121.98,0,1,0,0,
+POL-10058,31,Penang,Medical & Health,29,306.21,0,1,1,0,
+POL-10059,52, Kuala Lumpur ,Medical & Health,50,196.27,3,1,1,0,
+POL-10060,22,Sarawak,Investment-Linked,15,401.47,0,1,2,1,Relocated or moved abroad
+POL-10061,37,kuala lumpur,Medical & Health,77,184.7,0,1,1,0,
+POL-10062,43,Johor,Investment-Linked,34,242.87,0,0,1,1,Relocated or moved abroad
+POL-10063,47,Penang,Motor Comprehensive,44,151.64,0,1,0,0,
+POL-10064,49, Kuala Lumpur ,Motor Comprehensive,40,69.72,1,1,1,0,
+POL-10065,50,KUALA LUMPUR,Motor Comprehensive,33,104.46,0,1,3,0,
+POL-10066,37,sarawak,Life Protection,37,157.83,2,0,2,0,
+POL-10067,36,Kuala Lumpur,Motor Comprehensive,1,127.12,0,0,1,0,
+POL-10068,50,selangor,Medical & Health,40,175.12,2,1,0,1,Relocated or moved abroad
+POL-10069,39,Selangor,Investment-Linked,12,240.01,0,0,0,0,
+POL-10070,27,Kuala Lumpur,Life Protection,24,130.96,0,0,2,1,Relocated or moved abroad
+POL-10071,29,Penang,Medical & Health,33,174.15,1,0,0,0,
+POL-10072,31,Penang,Motor Comprehensive,52,98.91,2,1,1,0,
+POL-10073,46,Selangor,Motor Comprehensive,12,152.93,1,0,3,1,Premium too expensive
+POL-10074,43,Penang,Life Protection,18,118.13,0,2,2,0,
+POL-10075,49,Kuala Lumpur,Motor Comprehensive,20,129.38,1,1,1,0,
+POL-10076,36,Kuala Lumpur,Medical & Health,29,218.48,3,1,2,1,Premium too expensive
+POL-10077,43,Selangor,Motor Comprehensive,21,152.57,2,0,0,0,
+POL-10078,48,Sarawak,Medical & Health,37,203.13,1,0,0,0,
+POL-10079,38,Kuala Lumpur,Medical & Health,5,255.93,1,1,0,0,
+POL-10080,46,Kuala Lumpur,Medical & Health,23,201.15,0,0,1,0,
+POL-10081,34,Selangor,Life Protection,68,178.35,4,1,1,1,No longer needs coverage
+POL-10082,37,penang,Life Protection,21,109.89,0,1,2,0,
+POL-10083,37, Kuala Lumpur ,Life Protection,34,82.73,0,0,2,0,
+POL-10084,28,Selangor,Medical & Health,47,230.79,2,0,1,1,Poor customer service
+POL-10085,46,Johor,Medical & Health,33,233.9,0,0,0,0,
+POL-10086,36,Selangor,Life Protection,82,180.2,2,0,1,1,Poor customer service
+POL-10087,41,Kuala Lumpur,Medical & Health,27,184.17,0,0,1,0,
+POL-10088,46,Kuala Lumpur,Motor Comprehensive,38,174.15,0,1,1,0,
+POL-10089,46,Selangor,Investment-Linked,30,338.73,0,0,1,0,
+POL-10090,48,Selangor,Life Protection,60,177.75,0,1,0,0,
+POL-10091,40,Penang,Investment-Linked,19,440.91,2,2,1,1,No longer needs coverage
+POL-10092,36,Johor,Medical & Health,86,322.72,1,2,2,0,
+POL-10093,40,Johor,Medical & Health,15,194,0,1,0,0,
+POL-10094,22,Sarawak,Motor Comprehensive,72,101.92,1,1,0,1,Competitor offered better price
+POL-10095,25,Selangor,Motor Comprehensive,11,82.51,0,0,0,1,Premium too expensive
+POL-10096,26,selangor,Motor Comprehensive,39,176.9,2,1,0,0,
+POL-10097,30,Sarawak,Medical & Health,25,233.33,1,4,0,0,
+POL-10098,45,kuala lumpur,Motor Comprehensive,46,134.39,1,2,4,0,
+POL-10099,31,Johor,Life Protection,34,348.75,1,1,1,0,
+POL-10100,37,Penang,Life Protection,44,173.54,2,0,0,0,
+POL-10101,55,Kuala Lumpur,Medical & Health,11,151.64,1,0,0,0,
+POL-10102,37,Selangor,Investment-Linked,6,361.84,1,,2,1,Premium too expensive
+POL-10103,49,Kuala Lumpur,Medical & Health,9,164.58,0,2,2,1,Poor customer service
+POL-10104,31, Kuala Lumpur ,Motor Comprehensive,9,108.69,1,4,1,1,Premium too expensive
+POL-10105,39,Selangor,Motor Comprehensive,11,108.51,0,1,0,0,
+POL-10106,31,selangor,Motor Comprehensive,16,103.62,0,0,1,0,
+POL-10107,37,Penang,Motor Comprehensive,16,84.7,0,0,1,0,
+POL-10108,50,Sarawak,Investment-Linked,26,565.83,0,1,1,1,Premium too expensive
+POL-10109,22,Penang,Medical & Health,13,226.29,0,,2,0,
+POL-10110,46,Kuala Lumpur,Medical & Health,14,198.49,1,1,0,0,
+POL-10111,44,Kuala Lumpur,Motor Comprehensive,22,145.02,0,0,0,0,
+POL-10112,34,Kuala Lumpur,Life Protection,50,180,1,0,1,0,
+POL-10113,25,Kuala Lumpur,Medical & Health,18,224.98,1,0,0,1,No longer needs coverage
+POL-10114,42,Sarawak,Medical & Health,25,249.23,0,1,1,0,
+POL-10115,35,selangor,Life Protection,28,165.45,1,0,0,0,
+POL-10116,44,Kuala Lumpur,Medical & Health,12,248.31,0,0,1,0,
+POL-10117,41,Penang,Medical & Health,20,253.51,0,2,1,1,Premium too expensive
+POL-10118,59,Selangor,Investment-Linked,15,395.78,1,1,0,0,
+POL-10119,38,Kuala Lumpur,Life Protection,47,151.42,1,0,1,0,
+POL-10120,30,Kuala Lumpur,Investment-Linked,44,557.11,0,0,1,0,
+POL-10121,43,Johor,Investment-Linked,14,337.21,1,0,0,1,Claim rejected or dissatisfied
+POL-10122,43,Penang,Medical & Health,24,231.58,0,,0,0,
+POL-10123,56,Kuala Lumpur,Motor Comprehensive,38,133.08,1,0,0,1,Premium too expensive
+POL-10124,50,Sarawak,Motor Comprehensive,32,103.04,0,0,0,0,
+POL-10125,45,Penang,Motor Comprehensive,34,98.06,1,0,2,0,
+POL-10126,57,Penang,Medical & Health,12,192.22,0,0,0,0,
+POL-10127,28,Kuala Lumpur,Medical & Health,71,185.69,3,0,0,0,
+POL-10128,34,KUALA LUMPUR,Medical & Health,16,145.85,0,0,0,0,
+POL-10129,31,penang,Motor Comprehensive,16,101.96,0,2,2,0,
+POL-10130,37,Selangor,Investment-Linked,8,406.15,0,0,0,0,
+POL-10131,26,Johor,Motor Comprehensive,23,164.68,0,0,0,0,
+POL-10132,48,Penang,Motor Comprehensive,54,137.84,1,0,1,0,
+POL-10133,39, Kuala Lumpur ,Investment-Linked,32,198.4,2,,2,0,
+POL-10134,25,penang,Motor Comprehensive,24,140.87,2,,1,0,
+POL-10135,30,Sarawak,Medical & Health,42,182.65,2,3,0,0,
+POL-10136,44,Johor,Investment-Linked,53,425.58,0,1,0,0,
+POL-10137,50,Selangor,Life Protection,44,159.44,1,2,2,0,
+POL-10138,63,Penang,Medical & Health,5,200.12,0,2,1,1,Poor customer service
+POL-10139,70, Selangor ,Life Protection,43,155.96,0,,0,0,
+POL-10140,46,johor,Investment-Linked,35,377.88,0,0,1,0,
+POL-10141,30,Penang,Medical & Health,14,293.89,0,,1,0,
+POL-10142,21, Johor ,Life Protection,35,159.22,0,0,1,0,
+POL-10143,44,Selangor,Medical & Health,54,275.47,2,0,0,0,
+POL-10144,32,kuala lumpur,Medical & Health,16,265.62,2,0,1,0,
+POL-10145,36,Kuala Lumpur,Medical & Health,47,248.11,0,,0,0,
+POL-10146,34,Selangor,Motor Comprehensive,32,76.77,2,0,0,0,
+POL-10147,39,Selangor,Investment-Linked,1,502.37,0,1,1,1,Competitor offered better price
+POL-10148,53, Johor ,Medical & Health,25,187.29,1,1,0,0,
+POL-10149,43, Selangor ,Medical & Health,31,251.15,1,0,1,1,Claim rejected or dissatisfied
+POL-10150,39,Penang,Medical & Health,20,164.68,1,0,1,0,
+POL-10151,30,Sarawak,Medical & Health,33,156.15,1,0,0,0,
+POL-10152,23,Kuala Lumpur,Motor Comprehensive,23,196.68,0,3,1,0,
+POL-10153,36,Johor,Motor Comprehensive,97,94.47,2,2,1,0,
+POL-10154,40,Johor,Motor Comprehensive,19,159.82,0,0,1,0,
+POL-10155,60,Selangor,Life Protection,14,164.81,0,0,1,0,
+POL-10156,42,Kuala Lumpur,Motor Comprehensive,45,108.04,2,,0,0,
+POL-10157,52, Penang ,Medical & Health,21,207.66,0,0,0,0,
+POL-10158,36,Sarawak,Medical & Health,24,151.69,0,1,0,0,
+POL-10159,28,Johor,Investment-Linked,23,378.7,2,0,2,1,Poor customer service
+POL-10160,30,Sarawak,Motor Comprehensive,43,91.54,0,1,1,0,
+POL-10161,33,Sarawak,Investment-Linked,11,344.23,1,4,1,1,Premium too expensive
+POL-10162,64,Selangor,Investment-Linked,46,478.9,1,0,1,0,
+POL-10163,32,Johor,Motor Comprehensive,37,127.87,0,1,1,0,
+POL-10164,50, Selangor ,Investment-Linked,77,262.34,1,0,0,0,
+POL-10165,31,sarawak,Life Protection,29,197.96,1,1,1,0,
+POL-10166,51,Kuala Lumpur,Medical & Health,11,209.63,0,0,1,0,
+POL-10167,45,Selangor,Medical & Health,30,183.38,0,0,2,0,
+POL-10168,39,Penang,Medical & Health,32,253.1,2,0,4,0,
+POL-10169,41,Selangor,Medical & Health,57,201.4,0,1,0,0,
+POL-10170,34,Penang,Life Protection,11,119.55,0,1,2,1,Premium too expensive
+POL-10171,46,SELANGOR,Motor Comprehensive,7,190.46,0,1,0,0,
+POL-10172,36,Sarawak,Motor Comprehensive,30,119.48,1,,1,0,
+POL-10173,28,Sarawak,Motor Comprehensive,79,117.58,0,1,0,0,
+POL-10174,27,Selangor,Medical & Health,41,189.77,1,1,0,0,
+POL-10175,43,Penang,Motor Comprehensive,42,161.17,0,0,0,0,
+POL-10176,58,Selangor,Life Protection,8,140.32,0,1,0,0,
+POL-10177,43,Johor,Medical & Health,27,142.72,2,0,1,0,
+POL-10178,40,Johor,Medical & Health,57,177.23,1,0,0,0,
+POL-10179,44,Penang,Life Protection,33,222.93,1,,0,0,
+POL-10180,55,Kuala Lumpur,Medical & Health,6,258.56,0,3,2,1,Premium too expensive
+POL-10181,43,Kuala Lumpur,Motor Comprehensive,26,112.59,0,0,0,0,
+POL-10182,36,Johor,Motor Comprehensive,39,169.15,1,0,3,1,Claim rejected or dissatisfied
+POL-10183,53,Selangor,Motor Comprehensive,24,144.67,1,1,2,1,Premium too expensive
+POL-10184,46,Selangor,Medical & Health,13,196.46,0,0,3,0,
+POL-10185,58,Kuala Lumpur,Motor Comprehensive,46,115.12,0,2,0,0,
+POL-10186,43,Selangor,Motor Comprehensive,19,130.3,0,0,0,1,Premium too expensive
+POL-10187,28, Penang ,Medical & Health,35,170.57,0,2,0,1,Premium too expensive
+POL-10188,26,Kuala Lumpur,Motor Comprehensive,26,120.14,2,0,0,0,
+POL-10189,59, Selangor ,Life Protection,18,172.83,0,0,0,1,No longer needs coverage
+POL-10190,60,Sarawak,Life Protection,85,104.94,0,0,0,0,
+POL-10191,39,Kuala Lumpur,Medical & Health,17,200.29,0,0,1,0,
+POL-10192,37,Johor,Life Protection,27,148.33,1,1,2,1,Claim rejected or dissatisfied
+POL-10193,57, Kuala Lumpur ,Medical & Health,26,271.54,0,0,0,0,
+POL-10194,29,Penang,Medical & Health,30,132.42,1,1,0,0,
+POL-10195,31,Johor,Medical & Health,81,190.9,0,0,0,0,
+POL-10196,48,Sarawak,Investment-Linked,39,336.88,1,1,0,0,
+POL-10197,37,Kuala Lumpur,Medical & Health,18,266.97,0,1,1,1,Poor customer service
+POL-10198,41,Selangor,Life Protection,66,158.27,0,0,0,0,
+POL-10199,39,Penang,Life Protection,43,250.69,0,1,0,0,
+POL-10200,45,Kuala Lumpur,Investment-Linked,18,448.42,1,0,0,1,Competitor offered better price
+POL-10201,56,Kuala Lumpur,Motor Comprehensive,59,108.3,1,0,0,1,Claim rejected or dissatisfied
+POL-10202,42, Kuala Lumpur ,Investment-Linked,8,403.46,2,,0,1,Premium too expensive
+POL-10203,48,Sarawak,Medical & Health,10,192.21,2,2,4,1,Poor customer service
+POL-10204,21,Johor,Medical & Health,6,260.33,0,0,0,1,Competitor offered better price
+POL-10205,40, Johor ,Motor Comprehensive,3,86.01,0,2,0,1,Relocated or moved abroad
+POL-10206,32,Johor,Life Protection,56,130.22,3,,1,1,Premium too expensive
+POL-10207,28, Selangor ,Motor Comprehensive,30,134.48,2,0,0,1,Relocated or moved abroad
+POL-10208,31,selangor,Investment-Linked,6,516.26,0,,1,1,Poor customer service
+POL-10209,37,Selangor,Life Protection,25,92.27,0,0,0,0,
+POL-10210,51,Johor,Investment-Linked,47,535.82,0,1,1,0,
+POL-10211,26,Kuala Lumpur,Motor Comprehensive,14,115.87,0,0,0,0,
+POL-10212,41,Sarawak,Medical & Health,20,131.12,1,0,0,0,
+POL-10213,36,Penang,Life Protection,88,75.55,2,0,3,0,
+POL-10214,37,Selangor,Medical & Health,22,143.27,0,1,0,0,
+POL-10215,52,selangor,Motor Comprehensive,7,119.41,0,3,0,1,Premium too expensive
+POL-10216,47,Kuala Lumpur,Medical & Health,17,206.57,1,0,1,0,
+POL-10217,56,Sarawak,Life Protection,6,187.44,0,0,0,0,
+POL-10218,39,Sarawak,Motor Comprehensive,41,104.6,1,0,1,0,
+POL-10219,33,Sarawak,Medical & Health,13,159.19,0,0,2,0,
+POL-10220,39,Selangor,Medical & Health,12,189.4,0,1,2,0,
+POL-10221,44,Kuala Lumpur,Motor Comprehensive,93,121.01,0,0,0,0,
+POL-10222,43,Kuala Lumpur,Medical & Health,9,222.47,1,2,3,1,Relocated or moved abroad
+POL-10223,29,Kuala Lumpur,Life Protection,8,131.35,2,2,2,1,Premium too expensive
+POL-10224,42,Kuala Lumpur,Life Protection,11,200.44,0,1,0,1,Premium too expensive
+POL-10225,44,Kuala Lumpur,Medical & Health,48,179.78,0,0,1,0,
+POL-10226,69,sarawak,Medical & Health,37,168.96,2,0,1,0,
+POL-10227,62, Kuala Lumpur ,Motor Comprehensive,17,104.78,0,0,0,0,
+POL-10228,32,kuala lumpur,Investment-Linked,16,497.14,0,2,1,1,Premium too expensive
+POL-10229,38,Penang,Medical & Health,36,203.14,1,1,1,0,
+POL-10230,25,johor,Investment-Linked,31,319.43,0,0,0,0,
+POL-10231,35,Penang,Motor Comprehensive,23,151.26,1,1,0,1,No longer needs coverage
+POL-10232,44,Johor,Motor Comprehensive,38,205.03,1,1,2,0,
+POL-10233,54,Sarawak,Motor Comprehensive,10,126.46,1,2,0,1,Premium too expensive
+POL-10234,33,Johor,Motor Comprehensive,13,163.36,1,1,1,0,
+POL-10235,34,Selangor,Motor Comprehensive,40,155.48,1,0,0,0,
+POL-10236,21,Johor,Life Protection,32,137.52,1,1,0,1,No longer needs coverage
+POL-10237,39,Selangor,Life Protection,27,161.07,2,0,2,0,
+POL-10238,29,Selangor,Life Protection,91,116.11,2,0,0,0,
+POL-10239,35,Selangor,Medical & Health,44,199.51,2,1,0,0,
+POL-10240,31,Kuala Lumpur,Motor Comprehensive,17,102.61,0,1,0,0,
+POL-10241,40,Penang,Medical & Health,14,189.88,1,0,0,0,
+POL-10242,22,Kuala Lumpur,Medical & Health,34,174.1,1,0,0,0,
+POL-10243,25,Kuala Lumpur,Medical & Health,56,195.46,0,0,0,0,
+POL-10244,64,Kuala Lumpur,Medical & Health,5,239.89,0,,0,1,Poor customer service
+POL-10245,27,Penang,Motor Comprehensive,32,116.47,0,1,0,0,
+POL-10246,29,Selangor,Motor Comprehensive,20,75.29,1,1,0,0,
+POL-10247,61,Johor,Life Protection,30,132.77,1,0,1,0,
+POL-10248,70,Penang,Medical & Health,7,143.63,0,2,3,1,Poor customer service
+POL-10249,28,kuala lumpur,Life Protection,56,170.07,0,2,0,0,
+POL-10250,37,penang,Life Protection,66,181.45,2,1,1,0,
+POL-10251,45,Selangor,Motor Comprehensive,42,127.95,0,1,0,0,
+POL-10252,60,Kuala Lumpur,Motor Comprehensive,75,98.56,1,,0,0,
+POL-10253,30,Johor,Life Protection,19,170.19,1,0,0,0,
+POL-10254,38,Sarawak,Life Protection,31,142.26,1,2,1,1,Premium too expensive
+POL-10255,50,Selangor,Investment-Linked,42,285.89,1,0,2,1,Premium too expensive
+POL-10256,46,Selangor,Motor Comprehensive,34,144.46,1,0,0,0,
+POL-10257,37,Selangor,Life Protection,21,196.31,1,0,0,0,
+POL-10258,40,Selangor,Life Protection,23,202.84,0,1,2,0,
+POL-10259,26, Johor ,Medical & Health,63,180.37,1,2,1,0,
+POL-10260,38,Johor,Investment-Linked,26,510.31,0,0,3,1,Poor customer service
+POL-10261,38,Johor,Life Protection,54,141.43,3,3,0,1,Claim rejected or dissatisfied
+POL-10262,44,Kuala Lumpur,Medical & Health,25,247.27,0,0,0,0,
+POL-10263,35,Johor,Investment-Linked,54,334.44,1,1,0,1,Claim rejected or dissatisfied
+POL-10264,46,Johor,Motor Comprehensive,28,113.47,1,1,1,0,
+POL-10265,52, Johor ,Medical & Health,40,114.64,2,0,1,1,Premium too expensive
+POL-10266,43,Kuala Lumpur,Medical & Health,15,194.73,0,,0,1,Poor customer service
+POL-10267,45,Selangor,Medical & Health,31,214.84,0,,0,0,
+POL-10268,42,Selangor,Motor Comprehensive,16,108.31,0,1,2,0,
+POL-10269,41,Kuala Lumpur,Medical & Health,19,325.76,1,0,2,1,Claim rejected or dissatisfied
+POL-10270,33,Kuala Lumpur,Investment-Linked,20,284.16,0,2,0,1,Premium too expensive
+POL-10271,44,selangor,Investment-Linked,23,330.06,0,,0,0,
+POL-10272,40,Johor,Life Protection,50,127.61,1,2,0,1,Relocated or moved abroad
+POL-10273,64,Kuala Lumpur,Motor Comprehensive,18,104.22,0,0,0,1,Competitor offered better price
+POL-10274,58,Penang,Medical & Health,29,271.77,1,0,1,1,Poor customer service
+POL-10275,45,Selangor,Medical & Health,54,303.87,2,,1,1,Premium too expensive
+POL-10276,33, Penang ,Motor Comprehensive,39,100.71,2,0,1,0,
+POL-10277,29,Selangor,Medical & Health,5,175.27,0,3,1,1,Competitor offered better price
+POL-10278,54,selangor,Medical & Health,7,157.25,0,1,1,1,Premium too expensive
+POL-10279,44,johor,Life Protection,34,221.79,0,1,0,1,Premium too expensive
+POL-10280,46,Sarawak,Medical & Health,18,277.93,0,0,0,1,Premium too expensive
+POL-10281,22,selangor,Life Protection,6,155.82,0,2,2,0,
+POL-10282,51,SELANGOR,Motor Comprehensive,17,84.65,1,1,0,0,
+POL-10283,46,Johor,Motor Comprehensive,35,86.56,0,1,1,0,
+POL-10284,29,Johor,Motor Comprehensive,20,125.23,2,0,0,0,
+POL-10285,36,Kuala Lumpur,Motor Comprehensive,27,137.67,2,0,0,1,Competitor offered better price
+POL-10286,44,Selangor,Life Protection,22,95.45,0,0,0,0,
+POL-10287,42,selangor,Motor Comprehensive,15,110.74,2,0,1,0,
+POL-10288,38,Sarawak,Life Protection,31,239.79,1,1,0,1,Competitor offered better price
+POL-10289,40,Selangor,Medical & Health,6,198.89,0,2,2,1,Poor customer service
+POL-10290,38, Selangor ,Investment-Linked,13,551.47,1,1,1,0,
+POL-10291,43,Sarawak,Medical & Health,44,247,2,1,1,1,Competitor offered better price
+POL-10292,57,Selangor,Medical & Health,7,160.14,0,1,0,1,Competitor offered better price
+POL-10293,21,kuala lumpur,Medical & Health,26,195.18,1,0,1,0,
+POL-10294,38,Kuala Lumpur,Life Protection,19,154.93,1,,1,0,
+POL-10295,43,Kuala Lumpur,Life Protection,18,126.1,1,1,0,0,
+POL-10296,44,Kuala Lumpur,Life Protection,47,125.55,0,1,2,1,Poor customer service
+POL-10297,37,selangor,Investment-Linked,53,553.83,1,1,1,0,
+POL-10298,22,Penang,Medical & Health,11,164.48,0,2,0,1,Poor customer service
+POL-10299,45,JOHOR,Life Protection,23,209.51,2,1,0,0,
+POL-10300,60,Kuala Lumpur,Life Protection,4,143.46,0,0,0,1,No longer needs coverage
+POL-10301,24,Selangor,Motor Comprehensive,45,119.23,2,2,0,0,
+POL-10302,51,Kuala Lumpur,Medical & Health,25,241.67,0,1,0,0,
+POL-10303,37,Sarawak,Medical & Health,7,180.81,1,0,1,0,
+POL-10304,40,Kuala Lumpur,Life Protection,14,184.41,0,,1,0,
+POL-10305,29,johor,Motor Comprehensive,10,71.94,1,1,0,0,
+POL-10306,37,Selangor,Motor Comprehensive,13,133.94,1,0,0,0,
+POL-10307,55,Johor,Motor Comprehensive,5,64.74,3,2,0,0,
+POL-10308,47,Selangor,Motor Comprehensive,62,113.38,1,0,1,0,
+POL-10309,60,Penang,Life Protection,11,198.09,2,3,2,1,Claim rejected or dissatisfied
+POL-10310,54,Kuala Lumpur,Medical & Health,26,245.35,0,0,2,1,Relocated or moved abroad
+POL-10311,46,Sarawak,Medical & Health,35,151.79,0,1,1,0,
+POL-10312,60,Selangor,Medical & Health,53,156.76,1,0,1,0,
+POL-10313,46,Penang,Life Protection,27,134.69,0,0,4,0,
+POL-10314,50,Penang,Life Protection,21,167.62,0,0,1,0,
+POL-10315,38,Sarawak,Life Protection,28,96.27,1,0,0,0,
+POL-10316,42,Kuala Lumpur,Motor Comprehensive,11,119.6,1,3,0,1,No longer needs coverage
+POL-10317,33,Selangor,Life Protection,12,172.95,0,1,2,1,No longer needs coverage
+POL-10318,52, Kuala Lumpur ,Motor Comprehensive,21,111.8,0,1,2,0,
+POL-10319,28,Kuala Lumpur,Motor Comprehensive,3,136.84,2,1,0,0,
+POL-10320,50,Johor,Life Protection,15,169.2,0,1,1,0,
+POL-10321,39,Sarawak,Life Protection,18,139.74,0,1,0,1,Competitor offered better price
+POL-10322,54,Sarawak,Motor Comprehensive,82,73.95,0,2,1,1,Poor customer service
+POL-10323,49,Selangor,Motor Comprehensive,58,124.07,1,0,0,0,
+POL-10324,61,Johor,Life Protection,35,126.08,1,1,0,0,
+POL-10325,49,Penang,Life Protection,46,138.46,1,0,0,0,
+POL-10326,24,Sarawak,Motor Comprehensive,11,135.27,0,1,0,0,
+POL-10327,40,Kuala Lumpur,Motor Comprehensive,28,171.03,0,0,1,0,
+POL-10328,28,Selangor,Medical & Health,42,208.01,0,0,0,0,
+POL-10329,35,Penang,Life Protection,12,183.77,0,0,0,0,
+POL-10330,58,Selangor,Investment-Linked,7,264.82,1,0,1,0,
+POL-10331,48,Selangor,Medical & Health,32,223.29,0,1,0,0,
+POL-10332,33,Sarawak,Investment-Linked,8,374.35,0,0,0,0,
+POL-10333,30,Sarawak,Medical & Health,37,285.55,3,0,2,0,
+POL-10334,41, Sarawak ,Life Protection,53,139.78,1,0,2,0,
+POL-10335,28,Penang,Life Protection,12,150.62,2,0,4,0,
+POL-10336,34,Kuala Lumpur,Medical & Health,13,273.64,0,0,2,0,
+POL-10337,44,Selangor,Investment-Linked,52,371.36,0,0,2,0,
+POL-10338,54,Selangor,Life Protection,27,121.26,0,1,0,0,
+POL-10339,48,selangor,Investment-Linked,47,719.16,1,0,2,0,
+POL-10340,21, Selangor ,Medical & Health,21,160.37,2,0,0,0,
+POL-10341,44,Johor,Investment-Linked,23,373.9,0,0,1,1,Poor customer service
+POL-10342,42,SELANGOR,Investment-Linked,26,414.4,1,0,0,0,
+POL-10343,46,Johor,Motor Comprehensive,72,128.3,0,0,0,0,
+POL-10344,59,Selangor,Medical & Health,45,200.27,0,0,1,0,
+POL-10345,21,Selangor,Motor Comprehensive,15,114.58,1,0,0,0,
+POL-10346,34,Kuala Lumpur,Life Protection,30,150.87,0,1,0,0,
+POL-10347,47,Kuala Lumpur,Investment-Linked,20,287.49,0,0,1,0,
+POL-10348,24,Penang,Life Protection,18,273.89,1,0,2,1,Competitor offered better price
+POL-10349,57,Selangor,Medical & Health,36,198.76,0,0,0,0,
+POL-10350,45,Kuala Lumpur,Medical & Health,32,243.8,1,1,2,0,
+POL-10351,50,Penang,Motor Comprehensive,12,110.37,0,0,0,0,
+POL-10352,35,Selangor,Investment-Linked,26,347.75,1,1,1,1,Premium too expensive
+POL-10353,50,kuala lumpur,Medical & Health,17,187.4,0,0,0,0,
+POL-10354,53,Selangor,Motor Comprehensive,35,81.45,0,2,1,0,
+POL-10355,44,Kuala Lumpur,Investment-Linked,17,365.04,0,1,0,0,
+POL-10356,44,johor,Medical & Health,23,189.68,1,1,2,1,Relocated or moved abroad
+POL-10357,44,Kuala Lumpur,Medical & Health,18,281.46,1,1,0,1,Claim rejected or dissatisfied
+POL-10358,32,Kuala Lumpur,Motor Comprehensive,5,88.97,2,1,1,0,
+POL-10359,39,Kuala Lumpur,Motor Comprehensive,70,103.88,2,1,2,0,
+POL-10360,39,Johor,Medical & Health,26,167.75,0,2,1,1,Premium too expensive
+POL-10361,45,KUALA LUMPUR,Motor Comprehensive,71,172.11,1,1,2,1,Poor customer service
+POL-10362,52,Penang,Life Protection,27,128.74,1,2,0,0,
+POL-10363,29,kuala lumpur,Investment-Linked,41,437.36,0,0,1,0,
+POL-10364,40,Johor,Investment-Linked,16,484.3,0,2,0,0,
+POL-10365,57,Selangor,Motor Comprehensive,16,115.7,1,0,0,0,
+POL-10366,33,Selangor,Life Protection,25,113.41,1,0,0,0,
+POL-10367,32,Kuala Lumpur,Medical & Health,71,149.32,1,2,1,0,
+POL-10368,43,penang,Life Protection,12,198.37,0,1,0,0,
+POL-10369,50,Sarawak,Medical & Health,4,153.23,0,4,1,1,Premium too expensive
+POL-10370,41,Kuala Lumpur,Motor Comprehensive,51,132.36,1,0,4,0,
+POL-10371,56,Kuala Lumpur,Medical & Health,43,216.09,0,,0,0,
+POL-10372,50,Sarawak,Life Protection,19,175.82,1,0,0,0,
+POL-10373,50,Selangor,Medical & Health,89,236.28,2,1,0,0,
+POL-10374,47,Kuala Lumpur,Medical & Health,91,166.28,0,0,1,0,
+POL-10375,67,Kuala Lumpur,Medical & Health,5,164.55,0,3,1,1,Competitor offered better price
+POL-10376,39,Johor,Motor Comprehensive,15,143.48,1,0,1,0,
+POL-10377,21,johor,Motor Comprehensive,25,102.53,0,0,0,1,Poor customer service
+POL-10378,59,Johor,Medical & Health,34,105.59,1,0,1,0,
+POL-10379,36,Sarawak,Investment-Linked,31,446.91,0,0,0,0,
+POL-10380,42,Selangor,Investment-Linked,26,293.27,0,0,2,1,Poor customer service
+POL-10381,55,Selangor,Life Protection,11,179.82,1,2,1,1,Poor customer service
+POL-10382,23,Selangor,Motor Comprehensive,37,169.98,0,0,0,1,Premium too expensive
+POL-10383,27,Selangor,Life Protection,39,160.67,0,0,0,0,
+POL-10384,23, Kuala Lumpur ,Medical & Health,48,269.36,1,0,0,0,
+POL-10385,32,Kuala Lumpur,Life Protection,10,166.27,0,2,1,1,Competitor offered better price
+POL-10386,46,Selangor,Medical & Health,22,312.3,0,0,1,1,Premium too expensive
+POL-10387,47,Johor,Investment-Linked,18,291.38,0,,1,0,
+POL-10388,44,Kuala Lumpur,Investment-Linked,9,379.22,0,2,1,1,Premium too expensive
+POL-10389,25,Selangor,Motor Comprehensive,22,141.99,1,1,1,0,
+POL-10390,21,JOHOR,Motor Comprehensive,11,114.42,0,,1,1,Poor customer service
+POL-10391,42,JOHOR,Motor Comprehensive,8,160.06,0,3,0,0,
+POL-10392,36,Penang,Investment-Linked,43,341.1,0,0,1,0,
+POL-10393,46,Penang,Medical & Health,19,352.29,0,1,1,0,
+POL-10394,49,johor,Medical & Health,15,356.97,1,1,1,0,
+POL-10395,43,Kuala Lumpur,Motor Comprehensive,56,128.77,1,,1,0,
+POL-10396,49,Selangor,Life Protection,39,183.7,2,1,0,0,
+POL-10397,44,Johor,Life Protection,4,215.53,0,1,2,1,Premium too expensive
+POL-10398,47,Kuala Lumpur,Medical & Health,34,156.07,1,1,0,1,Relocated or moved abroad
+POL-10399,33,Kuala Lumpur,Motor Comprehensive,34,86.44,0,1,1,0,
+POL-10400,39,Kuala Lumpur,Medical & Health,21,287.5,1,1,0,0,
+POL-10401,43,Selangor,Medical & Health,21,224.89,1,0,0,0,
+POL-10402,50,Selangor,Medical & Health,6,198.44,0,0,0,0,
+POL-10403,37,Kuala Lumpur,Life Protection,88,160.45,0,0,0,0,
+POL-10404,47,Penang,Investment-Linked,22,209.28,0,,1,1,Poor customer service
+POL-10405,38,Sarawak,Life Protection,33,152.56,3,1,2,0,
+POL-10406,40, Kuala Lumpur ,Motor Comprehensive,23,99.41,0,1,1,0,
+POL-10407,50,Sarawak,Motor Comprehensive,15,150.96,0,1,1,1,Premium too expensive
+POL-10408,21,Kuala Lumpur,Life Protection,45,205.19,0,1,0,0,
+POL-10409,27,Sarawak,Motor Comprehensive,29,138.61,1,3,0,0,
+POL-10410,25,Sarawak,Motor Comprehensive,22,132.47,0,1,1,0,
+POL-10411,21,Kuala Lumpur,Motor Comprehensive,33,82.53,1,1,1,0,
+POL-10412,34,Penang,Medical & Health,24,243.42,0,1,1,0,
+POL-10413,49,Sarawak,Medical & Health,74,245.78,3,0,0,0,
+POL-10414,38,Sarawak,Investment-Linked,44,518.77,0,0,0,0,
+POL-10415,43,Sarawak,Motor Comprehensive,37,203.78,0,0,0,0,
+POL-10416,53,Selangor,Investment-Linked,7,248.89,2,2,2,1,Poor customer service
+POL-10417,56, Kuala Lumpur ,Investment-Linked,37,344.83,0,2,1,1,Premium too expensive
+POL-10418,40,Penang,Medical & Health,37,174.43,0,0,1,0,
+POL-10419,56,Johor,Motor Comprehensive,11,125.29,1,1,2,1,Premium too expensive
+POL-10420,42,JOHOR,Life Protection,7,160.54,0,2,0,1,No longer needs coverage
+POL-10421,32,Selangor,Motor Comprehensive,43,113.18,1,1,1,0,
+POL-10422,34,Selangor,Medical & Health,47,271.51,0,1,0,0,
+POL-10423,25,Kuala Lumpur,Medical & Health,16,159.45,0,1,0,0,
+POL-10424,31,Johor,Motor Comprehensive,15,92.5,0,0,1,0,
+POL-10425,37,Kuala Lumpur,Motor Comprehensive,29,92.89,1,0,2,0,
+POL-10426,50,Johor,Motor Comprehensive,19,109.66,0,0,0,0,
+POL-10427,60,Penang,Life Protection,6,117.69,0,1,1,0,
+POL-10428,26,selangor,Life Protection,11,158.07,0,,2,0,
+POL-10429,45,SELANGOR,Investment-Linked,32,364.6,1,0,1,0,
+POL-10430,30,Selangor,Life Protection,12,131.44,0,1,1,1,Poor customer service
+POL-10431,46,Sarawak,Life Protection,48,199.06,1,1,2,0,
+POL-10432,40,Johor,Motor Comprehensive,36,118.23,1,0,0,0,
+POL-10433,21,Selangor,Life Protection,33,208.69,1,0,2,0,
+POL-10434,51,Kuala Lumpur,Motor Comprehensive,28,114.29,0,0,1,0,
+POL-10435,34,Kuala Lumpur,Life Protection,14,159.04,0,1,0,0,
+POL-10436,35,Selangor,Motor Comprehensive,40,104.25,1,0,0,0,
+POL-10437,29,Sarawak,Investment-Linked,14,379.33,1,1,0,0,
+POL-10438,34,Johor,Investment-Linked,50,454.06,2,0,0,0,
+POL-10439,46,Kuala Lumpur,Motor Comprehensive,67,108.27,0,2,1,1,Claim rejected or dissatisfied
+POL-10440,39,penang,Life Protection,29,182.14,0,0,0,0,
+POL-10441,45,Selangor,Motor Comprehensive,61,97.94,2,0,1,0,
+POL-10442,45,penang,Motor Comprehensive,11,145.08,0,,1,1,Poor customer service
+POL-10443,56,Kuala Lumpur,Motor Comprehensive,37,103.81,0,1,1,0,
+POL-10444,37,Johor,Motor Comprehensive,26,148.47,0,1,0,0,
+POL-10445,25,Sarawak,Motor Comprehensive,44,121.84,1,0,3,0,
+POL-10446,53,Kuala Lumpur,Motor Comprehensive,4,175.52,0,1,0,0,
+POL-10447,37,Johor,Motor Comprehensive,42,89.92,3,2,1,1,Relocated or moved abroad
+POL-10448,53,Sarawak,Medical & Health,16,145.19,1,1,0,0,
+POL-10449,45,Kuala Lumpur,Life Protection,27,137.16,0,3,0,0,
+POL-10450,40,Kuala Lumpur,Motor Comprehensive,87,84.89,0,0,0,0,
+POL-10451,45,johor,Medical & Health,38,148.62,2,1,1,0,
+POL-10452,62, Selangor ,Investment-Linked,34,443.88,2,0,2,1,Claim rejected or dissatisfied
+POL-10453,64,Kuala Lumpur,Motor Comprehensive,32,119.87,1,0,0,0,
+POL-10454,42,Selangor,Medical & Health,53,186.27,0,1,2,0,
+POL-10455,43,Penang,Motor Comprehensive,44,108.93,1,1,1,1,Premium too expensive
+POL-10456,53, Selangor ,Motor Comprehensive,33,103.36,1,0,0,0,
+POL-10457,32,Selangor,Motor Comprehensive,30,181.29,1,0,0,0,
+POL-10458,45,Penang,Life Protection,29,133.13,0,1,0,0,
+POL-10459,41,Selangor,Investment-Linked,25,273.05,1,0,0,0,
+POL-10460,44, Penang ,Life Protection,9,195.23,0,1,0,1,Premium too expensive
+POL-10461,32,Selangor,Motor Comprehensive,37,113.7,1,1,0,0,
+POL-10462,24,Sarawak,Medical & Health,17,349.6,0,1,1,0,
+POL-10463,21,Johor,Motor Comprehensive,22,105.21,0,2,2,0,
+POL-10464,29,KUALA LUMPUR,Motor Comprehensive,47,148.26,1,1,0,1,Premium too expensive
+POL-10465,36,Sarawak,Motor Comprehensive,25,157.28,0,2,0,0,
+POL-10466,38,Selangor,Life Protection,24,140.45,1,0,1,0,
+POL-10467,62,Kuala Lumpur,Motor Comprehensive,29,99.66,1,2,0,0,
+POL-10468,53,Kuala Lumpur,Motor Comprehensive,20,144.44,0,0,1,1,Competitor offered better price
+POL-10469,30,Johor,Medical & Health,86,242.46,0,,0,0,
+POL-10470,45,kuala lumpur,Investment-Linked,78,267.07,2,,2,1,Poor customer service
+POL-10471,37,Selangor,Motor Comprehensive,77,90.5,2,1,1,1,Poor customer service
+POL-10472,38,Kuala Lumpur,Investment-Linked,32,201.56,1,1,0,0,
+POL-10473,43,Selangor,Investment-Linked,16,440.99,0,,0,0,
+POL-10474,48,Selangor,Investment-Linked,47,355.92,1,1,1,1,Claim rejected or dissatisfied
+POL-10475,37,Selangor,Motor Comprehensive,21,115.23,0,2,3,0,
+POL-10476,53,Kuala Lumpur,Motor Comprehensive,50,78.62,0,0,0,0,
+POL-10477,28,Kuala Lumpur,Medical & Health,15,159.59,1,1,1,1,Premium too expensive
+POL-10478,41,Johor,Life Protection,34,141.98,1,0,0,0,
+POL-10479,70,Selangor,Motor Comprehensive,55,101.43,2,2,1,0,
+POL-10480,43,Johor,Life Protection,21,164.78,0,1,0,0,
+POL-10481,57,Kuala Lumpur,Investment-Linked,21,439.68,1,3,3,1,Claim rejected or dissatisfied
+POL-10482,42,Kuala Lumpur,Medical & Health,7,370.37,0,2,2,1,Competitor offered better price
+POL-10483,47,KUALA LUMPUR,Life Protection,16,159.2,0,0,1,0,
+POL-10484,40,SELANGOR,Life Protection,32,211.46,0,1,1,0,
+POL-10485,39,Selangor,Life Protection,35,130.02,2,1,1,0,
+POL-10486,32,penang,Medical & Health,39,138.15,1,1,0,0,
+POL-10487,46,selangor,Medical & Health,5,192.3,1,3,0,1,Premium too expensive
+POL-10488,32,selangor,Motor Comprehensive,21,80.48,0,0,0,0,
+POL-10489,48, Johor ,Life Protection,8,160.59,0,2,0,0,
+POL-10490,53,Kuala Lumpur,Medical & Health,31,172.78,0,0,2,1,No longer needs coverage
+POL-10491,45,SELANGOR,Medical & Health,6,128.84,0,1,2,1,Poor customer service
+POL-10492,38,Selangor,Life Protection,10,246.95,0,1,3,1,Poor customer service
+POL-10493,46,Selangor,Medical & Health,44,183.59,1,3,2,1,Claim rejected or dissatisfied
+POL-10494,38,kuala lumpur,Motor Comprehensive,17,79.69,0,0,0,0,
+POL-10495,51,Penang,Motor Comprehensive,62,150.21,0,3,1,0,
+POL-10496,21,Sarawak,Medical & Health,40,175.03,1,0,1,1,Premium too expensive
+POL-10497,37,Kuala Lumpur,Motor Comprehensive,21,157.6,0,2,2,1,Premium too expensive
+POL-10498,21,Johor,Medical & Health,49,174.82,1,1,0,0,
+POL-10499,25,Penang,Life Protection,23,139.76,1,1,0,0,
+POL-10500,56,Selangor,Investment-Linked,42,414.21,1,0,0,0,
+POL-10501,51, Penang ,Life Protection,15,185.58,1,,1,0,
+POL-10502,33,johor,Investment-Linked,50,460.49,0,0,1,0,
+POL-10503,24,Sarawak,Medical & Health,7,205.34,0,1,0,0,
+POL-10504,21,sarawak,Life Protection,10,182.61,0,1,1,1,Premium too expensive
+POL-10505,35,Kuala Lumpur,Life Protection,12,192.79,0,1,0,0,
+POL-10506,68,selangor,Life Protection,16,168.23,1,0,0,0,
+POL-10507,46,Selangor,Investment-Linked,33,366.69,2,0,1,1,Premium too expensive
+POL-10508,35,Kuala Lumpur,Medical & Health,26,146.32,1,4,3,1,No longer needs coverage
+POL-10509,46,Selangor,Investment-Linked,43,441.41,0,1,2,1,Poor customer service
+POL-10510,24,Sarawak,Investment-Linked,55,384.03,0,,2,0,
+POL-10511,38, Kuala Lumpur ,Motor Comprehensive,6,108.21,0,1,1,0,
+POL-10512,42,Selangor,Life Protection,60,220.22,0,0,0,0,
+POL-10513,40,Penang,Life Protection,22,111.97,0,2,0,0,
+POL-10514,50,selangor,Medical & Health,76,316.75,1,1,0,0,
+POL-10515,45,Selangor,Motor Comprehensive,15,119.33,0,1,0,0,
+POL-10516,48,Sarawak,Life Protection,4,173.22,0,,0,1,Premium too expensive
+POL-10517,33,Selangor,Investment-Linked,40,344.26,0,0,0,0,
+POL-10518,51,Kuala Lumpur,Motor Comprehensive,38,79.1,0,1,0,1,Competitor offered better price
+POL-10519,59,Kuala Lumpur,Life Protection,11,154.51,1,2,3,0,
+POL-10520,30,Sarawak,Motor Comprehensive,12,130.47,0,1,0,0,
+POL-10521,31,kuala lumpur,Life Protection,45,189.47,0,1,0,1,No longer needs coverage
+POL-10522,56,Selangor,Investment-Linked,34,361.64,0,1,0,0,
+POL-10523,39, Kuala Lumpur ,Medical & Health,21,121.39,0,2,0,0,
+POL-10524,56,Selangor,Investment-Linked,36,258.46,0,0,0,0,
+POL-10525,36,sarawak,Motor Comprehensive,32,200.44,1,2,1,0,
+POL-10526,57,Selangor,Investment-Linked,13,289.18,0,,0,0,
+POL-10527,42,Sarawak,Life Protection,47,228.59,1,0,1,0,
+POL-10528,44,kuala lumpur,Motor Comprehensive,41,95.01,0,3,2,1,Premium too expensive
+POL-10529,58,Selangor,Life Protection,26,152.87,0,0,2,0,
+POL-10530,37,Penang,Motor Comprehensive,45,140.3,1,0,0,0,
+POL-10531,31,Selangor,Medical & Health,82,171.07,2,0,1,0,
+POL-10532,36,Kuala Lumpur,Life Protection,11,238.23,1,0,0,1,Premium too expensive
+POL-10533,46,Penang,Life Protection,22,163.06,0,0,1,0,
+POL-10534,24,Selangor,Life Protection,22,179.54,0,0,0,1,Claim rejected or dissatisfied
+POL-10535,48,Selangor,Life Protection,44,149.65,1,0,1,0,
+POL-10536,35,sarawak,Motor Comprehensive,16,141.48,0,1,0,0,
+POL-10537,54,Kuala Lumpur,Medical & Health,43,311.63,1,0,1,1,Poor customer service
+POL-10538,21,Selangor,Motor Comprehensive,18,116.13,1,2,3,0,
+POL-10539,32,Kuala Lumpur,Medical & Health,10,323.61,0,3,2,1,Premium too expensive
+POL-10540,22,Selangor,Motor Comprehensive,28,102.99,2,0,0,1,Relocated or moved abroad
+POL-10541,32,Kuala Lumpur,Motor Comprehensive,17,145.26,3,1,0,0,
+POL-10542,44,johor,Life Protection,30,180.81,1,0,2,0,
+POL-10543,39,KUALA LUMPUR,Motor Comprehensive,35,91.87,0,0,1,0,
+POL-10544,38,Johor,Investment-Linked,6,400.86,0,1,0,1,Premium too expensive
+POL-10545,39,Kuala Lumpur,Motor Comprehensive,19,120.22,1,1,1,1,Poor customer service
+POL-10546,43,selangor,Life Protection,28,129.27,0,0,1,0,
+POL-10547,30,Selangor,Life Protection,45,174.98,1,0,2,0,
+POL-10548,49,Johor,Motor Comprehensive,41,124.47,0,0,0,0,
+POL-10549,48,Selangor,Medical & Health,14,206.22,2,1,1,0,
+POL-10550,45,Selangor,Motor Comprehensive,23,117.96,0,0,1,1,Poor customer service
+POL-10551,47,Penang,Life Protection,36,156.44,1,0,0,0,
+POL-10552,44,selangor,Motor Comprehensive,22,109.46,1,0,1,0,
+POL-10553,63,Kuala Lumpur,Medical & Health,15,217.47,0,0,0,1,Premium too expensive
+POL-10554,40,Sarawak,Medical & Health,25,178.78,0,0,0,0,
+POL-10555,38,Selangor,Investment-Linked,34,738.32,3,,2,0,
+POL-10556,33,Kuala Lumpur,Investment-Linked,12,267.16,1,1,0,0,
+POL-10557,30, Selangor ,Investment-Linked,38,328.32,2,0,0,0,
+POL-10558,27,Kuala Lumpur,Investment-Linked,29,334.87,1,,1,1,Claim rejected or dissatisfied
+POL-10559,31,Kuala Lumpur,Life Protection,39,266.48,0,1,0,1,Competitor offered better price
+POL-10560,40,johor,Medical & Health,25,150.97,0,0,0,0,
+POL-10561,45,Kuala Lumpur,Medical & Health,75,233.59,1,0,2,0,
+POL-10562,42,Penang,Life Protection,33,170.25,1,3,1,1,Claim rejected or dissatisfied
+POL-10563,33,sarawak,Medical & Health,42,228.27,1,1,2,0,
+POL-10564,51,Johor,Investment-Linked,38,517.63,0,0,0,0,
+POL-10565,49,Johor,Medical & Health,23,284.59,1,2,1,1,Claim rejected or dissatisfied
+POL-10566,39,Johor,Medical & Health,31,187.61,0,0,1,0,
+POL-10567,34,sarawak,Medical & Health,17,220.44,0,0,0,0,
+POL-10568,47,Selangor,Medical & Health,71,131.77,0,0,1,0,
+POL-10569,43,Kuala Lumpur,Medical & Health,36,215.27,3,0,0,1,Claim rejected or dissatisfied
+POL-10570,25,Selangor,Motor Comprehensive,14,98.4,1,1,3,1,Poor customer service
+POL-10571,40,Selangor,Life Protection,61,152.72,1,1,2,0,
+POL-10572,44,Kuala Lumpur,Motor Comprehensive,24,78.74,0,0,0,0,
+POL-10573,31,johor,Investment-Linked,46,420.48,0,0,1,0,
+POL-10574,43,Kuala Lumpur,Motor Comprehensive,6,78.52,0,1,0,1,Premium too expensive
+POL-10575,25,Sarawak,Motor Comprehensive,54,124.53,2,2,4,0,
+POL-10576,56,Kuala Lumpur,Life Protection,35,117.75,1,1,1,0,
+POL-10577,55,Kuala Lumpur,Medical & Health,13,169.81,0,0,1,0,
+POL-10578,38,Kuala Lumpur,Life Protection,34,213.55,4,3,0,1,Claim rejected or dissatisfied
+POL-10579,45,Kuala Lumpur,Investment-Linked,67,440.17,0,1,1,0,
+POL-10580,21,kuala lumpur,Motor Comprehensive,17,159.94,0,2,2,1,Poor customer service
+POL-10581,28,Kuala Lumpur,Medical & Health,17,310.14,2,1,0,1,Premium too expensive
+POL-10582,38,Kuala Lumpur,Life Protection,23,131.89,0,0,0,1,No longer needs coverage
+POL-10583,29,Kuala Lumpur,Motor Comprehensive,27,174.55,0,1,0,0,
+POL-10584,49,Selangor,Motor Comprehensive,48,83.19,0,,1,0,
+POL-10585,63,Selangor,Motor Comprehensive,36,144.61,1,0,1,0,
+POL-10586,28,Selangor,Investment-Linked,23,335.91,0,2,1,1,Claim rejected or dissatisfied
+POL-10587,32,Selangor,Motor Comprehensive,32,95.1,1,0,2,0,
+POL-10588,44,Kuala Lumpur,Motor Comprehensive,74,139.93,1,0,0,0,
+POL-10589,59,Kuala Lumpur,Medical & Health,40,265.96,0,1,0,0,
+POL-10590,28,Kuala Lumpur,Medical & Health,24,263.99,0,0,2,0,
+POL-10591,44,Penang,Investment-Linked,22,400.97,0,2,1,0,
+POL-10592,61,Sarawak,Motor Comprehensive,31,124.02,0,2,0,0,
+POL-10593,23,Sarawak,Life Protection,48,182.53,0,1,3,0,
+POL-10594,27, Selangor ,Motor Comprehensive,15,129.47,0,1,0,0,
+POL-10595,36, Selangor ,Medical & Health,44,240.43,0,0,1,0,
+POL-10596,35,Selangor,Motor Comprehensive,24,126.28,1,1,0,0,
+POL-10597,50,Penang,Medical & Health,27,259.25,0,0,0,0,
+POL-10598,44,Penang,Motor Comprehensive,111,79.89,1,2,0,1,Premium too expensive
+POL-10599,21,Penang,Life Protection,41,154.83,1,1,2,0,
+POL-10600,47,Sarawak,Medical & Health,18,148.58,0,0,0,0,
+POL-10601,35,Selangor,Medical & Health,35,225.04,0,0,0,0,
+POL-10602,55, Penang ,Motor Comprehensive,50,180.91,2,0,0,0,
+POL-10603,34,Penang,Medical & Health,41,186.53,0,1,0,0,
+POL-10604,34,SELANGOR,Medical & Health,4,216.79,0,0,0,1,Premium too expensive
+POL-10605,47,Sarawak,Motor Comprehensive,26,144.98,1,0,1,0,
+POL-10606,49,Kuala Lumpur,Life Protection,36,95.42,0,1,1,0,
+POL-10607,46,Sarawak,Life Protection,34,140.42,1,0,2,1,Claim rejected or dissatisfied
+POL-10608,22,Penang,Medical & Health,19,230.04,0,1,1,0,
+POL-10609,47,Kuala Lumpur,Investment-Linked,42,184.18,0,0,0,0,
+POL-10610,30,Johor,Medical & Health,54,164.5,1,0,0,0,
+POL-10611,44,Kuala Lumpur,Medical & Health,7,276.53,0,2,1,1,Premium too expensive
+POL-10612,25, Penang ,Life Protection,6,205.6,1,5,1,1,No longer needs coverage
+POL-10613,46,penang,Medical & Health,34,230.6,0,0,1,0,
+POL-10614,32,JOHOR,Life Protection,44,199.48,0,2,2,0,
+POL-10615,27,Penang,Medical & Health,17,221.6,0,3,1,1,Competitor offered better price
+POL-10616,49,Kuala Lumpur,Medical & Health,4,241.28,0,0,3,1,Premium too expensive
+POL-10617,44,Kuala Lumpur,Life Protection,26,147.86,1,2,3,1,Competitor offered better price
+POL-10618,34,Selangor,Investment-Linked,34,391.16,1,0,1,0,
+POL-10619,57,Kuala Lumpur,Medical & Health,21,179.29,0,1,0,0,
+POL-10620,36,Selangor,Medical & Health,50,288.01,0,0,3,1,Competitor offered better price
+POL-10621,41,Kuala Lumpur,Investment-Linked,33,555.88,1,0,0,1,Premium too expensive
+POL-10622,44,Selangor,Investment-Linked,16,536.54,4,0,1,1,Premium too expensive
+POL-10623,34,Selangor,Motor Comprehensive,17,108.36,0,0,1,0,
+POL-10624,46,Penang,Medical & Health,27,165.45,0,2,0,0,
+POL-10625,35,Kuala Lumpur,Life Protection,20,220.17,1,0,1,0,
+POL-10626,36,Sarawak,Medical & Health,6,240.59,0,1,2,0,
+POL-10627,56,Selangor,Medical & Health,31,227.98,1,2,2,0,
+POL-10628,30,Selangor,Life Protection,17,136.56,1,1,2,1,Claim rejected or dissatisfied
+POL-10629,21,Selangor,Motor Comprehensive,20,133.47,2,0,0,0,
+POL-10630,59,Selangor,Life Protection,11,121.98,0,2,2,1,Poor customer service
+POL-10631,69,Kuala Lumpur,Motor Comprehensive,68,140.61,0,0,0,0,
+POL-10632,37,Selangor,Medical & Health,39,296.44,0,1,0,0,
+POL-10633,21, Kuala Lumpur ,Life Protection,78,240.55,0,0,0,1,No longer needs coverage
+POL-10634,38,Selangor,Motor Comprehensive,21,143.25,1,0,0,1,Premium too expensive
+POL-10635,38,Selangor,Investment-Linked,41,268.99,0,2,1,1,Premium too expensive
+POL-10636,39,Selangor,Life Protection,31,168.09,0,0,0,0,
+POL-10637,29,Penang,Motor Comprehensive,16,204.88,1,0,2,1,Claim rejected or dissatisfied
+POL-10638,47,Kuala Lumpur,Medical & Health,21,169.01,0,0,0,0,
+POL-10639,47,Sarawak,Medical & Health,39,206.92,0,1,1,0,
+POL-10640,25,Penang,Motor Comprehensive,11,170.86,0,1,3,1,Poor customer service
+POL-10641,49,Sarawak,Medical & Health,51,245.03,1,,0,0,
+POL-10642,64,Penang,Life Protection,29,297.44,1,0,2,0,
+POL-10643,43,Kuala Lumpur,Life Protection,46,133.21,2,0,1,0,
+POL-10644,37,Selangor,Medical & Health,34,163.97,0,1,2,0,
+POL-10645,39,Kuala Lumpur,Medical & Health,7,285.19,0,1,0,1,Premium too expensive
+POL-10646,48,Penang,Life Protection,26,118.65,1,2,2,0,
+POL-10647,22,Johor,Investment-Linked,51,361.76,1,0,1,1,No longer needs coverage
+POL-10648,43,Kuala Lumpur,Motor Comprehensive,29,118.05,0,0,0,0,
+POL-10649,37,Sarawak,Life Protection,26,207.3,0,1,1,0,
+POL-10650,61,Kuala Lumpur,Medical & Health,29,244.86,0,1,0,0,
+POL-10651,39,Selangor,Motor Comprehensive,5,134.53,0,0,1,0,
+POL-10652,59,Johor,Medical & Health,55,189.9,0,1,1,0,
+POL-10653,29,Kuala Lumpur,Life Protection,3,216.79,0,,2,0,
+POL-10654,47,Johor,Motor Comprehensive,62,328.31,2,4,1,1,Claim rejected or dissatisfied
+POL-10655,45,penang,Life Protection,20,190.18,0,1,0,0,
+POL-10656,31,Kuala Lumpur,Medical & Health,36,215.3,0,0,0,0,
+POL-10657,43,Selangor,Medical & Health,5,151.81,1,1,0,1,No longer needs coverage
+POL-10658,54, Kuala Lumpur ,Medical & Health,44,179.06,2,0,0,0,
+POL-10659,37,Johor,Life Protection,39,151.68,2,0,5,1,Poor customer service
+POL-10660,22,Kuala Lumpur,Investment-Linked,37,332.46,0,1,0,1,Competitor offered better price
+POL-10661,41,sarawak,Medical & Health,4,209.16,0,1,1,1,Poor customer service
+POL-10662,31,Sarawak,Motor Comprehensive,14,187.17,0,1,0,0,
+POL-10663,37,kuala lumpur,Motor Comprehensive,34,163.9,1,0,0,0,
+POL-10664,40, Selangor ,Medical & Health,54,201.82,0,,0,1,Competitor offered better price
+POL-10665,22,Johor,Medical & Health,13,155.25,0,1,1,1,Premium too expensive
+POL-10666,23,Johor,Life Protection,13,223.52,1,1,1,0,
+POL-10667,46,Selangor,Motor Comprehensive,33,118.54,1,,0,0,
+POL-10668,35,Kuala Lumpur,Life Protection,105,103.91,1,1,0,0,
+POL-10669,21,Kuala Lumpur,Motor Comprehensive,16,143.39,0,0,1,0,
+POL-10670,50,Sarawak,Investment-Linked,20,491.07,0,0,0,0,
+POL-10671,44,Selangor,Motor Comprehensive,18,65.43,0,1,0,1,Relocated or moved abroad
+POL-10672,33,Penang,Investment-Linked,24,309.21,0,1,0,0,
+POL-10673,27,SELANGOR,Motor Comprehensive,57,116.73,0,0,0,0,
+POL-10674,50,Sarawak,Investment-Linked,25,456.6,1,1,0,0,
+POL-10675,45,Kuala Lumpur,Motor Comprehensive,111,105.48,1,0,0,0,
+POL-10676,67,Kuala Lumpur,Motor Comprehensive,28,97.46,4,1,2,0,
+POL-10677,46,Sarawak,Motor Comprehensive,60,143.92,1,,3,0,
+POL-10678,45,Sarawak,Investment-Linked,21,338.02,1,0,0,0,
+POL-10679,39,Selangor,Life Protection,9,183.22,0,0,0,0,
+POL-10680,50,Selangor,Motor Comprehensive,25,90.89,3,1,1,0,
+POL-10681,48,Selangor,Life Protection,38,114.1,0,1,0,0,
+POL-10682,55,Selangor,Investment-Linked,15,458.97,0,1,1,0,
+POL-10683,35,Kuala Lumpur,Life Protection,54,170.43,1,1,1,0,
+POL-10684,36,Sarawak,Motor Comprehensive,19,151.12,0,1,1,0,
+POL-10685,36,Kuala Lumpur,Motor Comprehensive,11,105.04,1,2,0,1,Premium too expensive
+POL-10686,50,Johor,Investment-Linked,98,311.5,3,1,2,1,Claim rejected or dissatisfied
+POL-10687,57,Kuala Lumpur,Medical & Health,14,295.09,0,0,4,1,Claim rejected or dissatisfied
+POL-10688,36, Kuala Lumpur ,Motor Comprehensive,18,82,0,1,0,0,
+POL-10689,36,Johor,Motor Comprehensive,42,164.08,1,0,0,1,No longer needs coverage
+POL-10690,44, Selangor ,Investment-Linked,21,528.63,0,1,4,1,Premium too expensive
+POL-10691,38, Johor ,Investment-Linked,12,471.16,2,0,0,1,Competitor offered better price
+POL-10692,51,Kuala Lumpur,Motor Comprehensive,17,101.04,0,0,0,0,
+POL-10693,21,Sarawak,Motor Comprehensive,82,97.84,1,0,0,0,
+POL-10694,32,Johor,Medical & Health,39,199.26,0,,1,0,
+POL-10695,32,Penang,Investment-Linked,44,274.9,2,1,2,1,Competitor offered better price
+POL-10696,21,Kuala Lumpur,Medical & Health,32,165.12,0,,1,0,
+POL-10697,30,Selangor,Motor Comprehensive,35,140.99,0,,1,0,
+POL-10698,31,Selangor,Motor Comprehensive,19,141.15,2,0,0,0,
+POL-10699,39,Selangor,Life Protection,29,123.07,0,0,0,0,
+POL-10700,53,Selangor,Medical & Health,4,248.67,0,,1,0,
+POL-10701,38,Kuala Lumpur,Medical & Health,49,235.26,1,0,2,0,
+POL-10702,30,Selangor,Investment-Linked,19,554.26,1,3,1,1,Premium too expensive
+POL-10703,40,Kuala Lumpur,Life Protection,10,184.46,0,2,0,0,
+POL-10704,53,Selangor,Medical & Health,30,273.62,1,2,4,1,Premium too expensive
+POL-10705,30,Kuala Lumpur,Motor Comprehensive,23,135.2,0,1,0,0,
+POL-10706,31,Kuala Lumpur,Medical & Health,48,268.3,2,0,0,0,
+POL-10707,47,Johor,Investment-Linked,25,275.45,0,,0,1,Poor customer service
+POL-10708,39, Selangor ,Life Protection,17,155.2,1,,1,0,
+POL-10709,48,Selangor,Medical & Health,26,207.96,0,2,1,0,
+POL-10710,41,Selangor,Medical & Health,64,197.59,1,4,2,0,
+POL-10711,49,Penang,Life Protection,49,178.78,3,1,1,0,
+POL-10712,30,Selangor,Life Protection,39,187.5,2,1,0,0,
+POL-10713,41,Johor,Motor Comprehensive,51,132.36,2,0,0,0,
+POL-10714,39,Sarawak,Life Protection,41,153.08,1,0,2,0,
+POL-10715,28,SELANGOR,Life Protection,13,133.12,0,0,0,0,
+POL-10716,24,SARAWAK,Medical & Health,44,276.28,0,2,1,0,
+POL-10717,49,Penang,Medical & Health,54,229.19,0,1,0,0,
+POL-10718,37,Kuala Lumpur,Investment-Linked,56,294.57,0,1,1,0,
+POL-10719,30, Selangor ,Medical & Health,11,200.07,1,0,0,1,Relocated or moved abroad
+POL-10720,40,Johor,Investment-Linked,18,245.76,1,1,3,0,
+POL-10721,53,Sarawak,Life Protection,16,161.42,0,0,0,0,
+POL-10722,21,Selangor,Medical & Health,21,199.84,0,0,0,0,
+POL-10723,25,Kuala Lumpur,Medical & Health,36,181.91,3,0,2,0,
+POL-10724,31,Selangor,Medical & Health,30,312.08,3,1,0,0,
+POL-10725,57,Kuala Lumpur,Motor Comprehensive,30,89.88,1,0,1,1,No longer needs coverage
+POL-10726,44,PENANG,Life Protection,9,190.9,1,2,1,0,
+POL-10727,49,Selangor,Life Protection,18,276.4,0,1,1,0,
+POL-10728,28,Johor,Motor Comprehensive,59,157.09,0,0,0,0,
+POL-10729,29,Penang,Motor Comprehensive,54,119.06,1,1,1,0,
+POL-10730,46,Johor,Investment-Linked,25,286.19,0,0,0,0,
+POL-10731,42,Johor,Investment-Linked,44,270.33,1,3,1,1,Premium too expensive
+POL-10732,47,Penang,Motor Comprehensive,34,108.27,0,0,0,1,Relocated or moved abroad
+POL-10733,39,Penang,Motor Comprehensive,47,101.06,1,1,2,0,
+POL-10734,44,Penang,Motor Comprehensive,45,100.24,1,1,2,0,
+POL-10735,43,Kuala Lumpur,Life Protection,27,147.47,2,0,2,0,
+POL-10736,50,Selangor,Motor Comprehensive,39,116.97,0,0,0,0,
+POL-10737,50,Kuala Lumpur,Medical & Health,35,237.08,1,,1,0,
+POL-10738,23,Penang,Motor Comprehensive,27,88.06,0,1,1,0,
+POL-10739,21,Johor,Investment-Linked,23,320.41,1,1,0,0,
+POL-10740,52,Selangor,Medical & Health,75,201.78,2,0,2,0,
+POL-10741,54,Kuala Lumpur,Motor Comprehensive,27,114.28,0,1,1,0,
+POL-10742,30,Selangor,Investment-Linked,42,601.41,0,0,0,0,
+POL-10743,21,Johor,Medical & Health,71,222.55,0,1,0,1,Premium too expensive
+POL-10744,42,Kuala Lumpur,Life Protection,39,106.89,2,0,0,0,
+POL-10745,51,Kuala Lumpur,Investment-Linked,38,421.88,0,,1,1,No longer needs coverage
+POL-10746,61,Sarawak,Investment-Linked,27,435.54,0,0,0,0,
+POL-10747,47,Penang,Medical & Health,36,203.53,0,0,0,0,
+POL-10748,37,Kuala Lumpur,Life Protection,22,118.13,1,1,3,1,Claim rejected or dissatisfied
+POL-10749,31,selangor,Motor Comprehensive,120,186.23,0,2,1,0,
+POL-10750,41,Sarawak,Medical & Health,9,160.72,1,0,3,1,No longer needs coverage
+POL-10751,38,Johor,Life Protection,24,188.74,0,1,0,1,Competitor offered better price
+POL-10752,30,Johor,Medical & Health,39,220.77,1,1,0,0,
+POL-10753,64,Selangor,Medical & Health,38,244.03,0,1,0,0,
+POL-10754,61,Selangor,Motor Comprehensive,22,183.87,0,1,0,0,
+POL-10755,53,Kuala Lumpur,Motor Comprehensive,6,138.09,1,0,1,0,
+POL-10756,31,JOHOR,Motor Comprehensive,10,104.36,0,1,0,1,Premium too expensive
+POL-10757,50,Kuala Lumpur,Motor Comprehensive,31,158.22,1,1,0,0,
+POL-10758,48,kuala lumpur,Life Protection,4,136.65,0,4,1,1,Competitor offered better price
+POL-10759,46,Johor,Medical & Health,41,218.76,0,1,0,1,Competitor offered better price
+POL-10760,55,sarawak,Medical & Health,57,151.99,0,0,2,0,
+POL-10761,48,Penang,Medical & Health,46,162.19,3,0,1,0,
+POL-10762,49,Selangor,Life Protection,52,162.07,1,0,0,0,
+POL-10763,48,Selangor,Medical & Health,5,230.24,0,,2,1,Competitor offered better price
+POL-10764,45,Selangor,Medical & Health,22,137.21,0,1,0,0,
+POL-10765,21,Selangor,Medical & Health,12,237.8,1,1,0,0,
+POL-10766,42, Selangor ,Motor Comprehensive,7,97.77,0,,1,0,
+POL-10767,35,Selangor,Motor Comprehensive,19,165.24,0,0,0,1,Premium too expensive
+POL-10768,27,Johor,Investment-Linked,70,347.99,1,0,2,1,Premium too expensive
+POL-10769,59,sarawak,Motor Comprehensive,82,90.61,0,1,2,1,Poor customer service
+POL-10770,60,sarawak,Motor Comprehensive,14,122.3,0,0,0,1,No longer needs coverage
+POL-10771,56,Kuala Lumpur,Medical & Health,29,167.01,0,0,2,0,
+POL-10772,44,Selangor,Motor Comprehensive,35,164.8,1,0,3,0,
+POL-10773,56,kuala lumpur,Medical & Health,22,210.03,0,0,0,0,
+POL-10774,41,Selangor,Life Protection,60,154.05,0,1,1,0,
+POL-10775,43,Selangor,Life Protection,19,185.51,1,1,0,0,
+POL-10776,29,Kuala Lumpur,Life Protection,17,124.45,0,0,0,0,
+POL-10777,45,Penang,Medical & Health,14,152.14,0,1,1,1,Claim rejected or dissatisfied
+POL-10778,42,Selangor,Motor Comprehensive,22,132.9,0,1,0,0,
+POL-10779,27,Sarawak,Motor Comprehensive,2,91.16,0,,1,1,Claim rejected or dissatisfied
+POL-10780,40,Kuala Lumpur,Motor Comprehensive,23,91.15,0,1,1,0,
+POL-10781,40,kuala lumpur,Motor Comprehensive,30,147.92,0,0,0,0,
+POL-10782,61,Selangor,Life Protection,31,182.44,1,1,2,0,
+POL-10783,51,Kuala Lumpur,Medical & Health,12,153.49,0,2,0,1,Premium too expensive
+POL-10784,41,Kuala Lumpur,Motor Comprehensive,31,102.79,0,2,2,0,
+POL-10785,44,Sarawak,Life Protection,30,127.64,1,0,1,0,
+POL-10786,41,Kuala Lumpur,Medical & Health,31,327.4,0,1,1,0,
+POL-10787,39,kuala lumpur,Life Protection,46,200.67,0,1,0,0,
+POL-10788,29,Selangor,Investment-Linked,11,342.05,1,4,1,1,Poor customer service
+POL-10789,39,Selangor,Motor Comprehensive,23,138.59,2,3,1,1,Premium too expensive
+POL-10790,33,Johor,Life Protection,6,113.99,0,2,0,0,
+POL-10791,27,Selangor,Motor Comprehensive,44,101.43,0,1,2,1,Premium too expensive
+POL-10792,47,Penang,Life Protection,13,164.25,1,0,0,0,
+POL-10793,45,Kuala Lumpur,Life Protection,51,179.15,1,0,0,0,
+POL-10794,21,Selangor,Medical & Health,52,204.95,1,1,1,0,
+POL-10795,40,Johor,Life Protection,24,170.23,0,0,0,0,
+POL-10796,52,penang,Motor Comprehensive,23,122.37,0,0,0,0,
+POL-10797,53,Selangor,Medical & Health,8,201.59,0,5,3,1,Premium too expensive
+POL-10798,52,Selangor,Motor Comprehensive,28,111.44,2,0,0,0,
+POL-10799,41,Kuala Lumpur,Medical & Health,46,188.77,0,,0,0,
+POL-10800,32,Kuala Lumpur,Motor Comprehensive,33,127.16,1,0,1,1,Premium too expensive
+POL-10801,29,KUALA LUMPUR,Motor Comprehensive,64,132.98,0,1,1,0,
+POL-10802,45, Johor ,Motor Comprehensive,21,126.1,0,2,2,1,Poor customer service
+POL-10803,45,Selangor,Motor Comprehensive,21,89.38,2,5,4,1,Poor customer service
+POL-10804,55,Johor,Investment-Linked,14,296.02,0,1,0,1,Premium too expensive
+POL-10805,53,Kuala Lumpur,Life Protection,92,176.78,1,1,0,0,
+POL-10806,40,Penang,Motor Comprehensive,8,173.37,1,0,2,1,Claim rejected or dissatisfied
+POL-10807,27,Penang,Motor Comprehensive,44,124.66,0,0,0,0,
+POL-10808,37,Kuala Lumpur,Medical & Health,47,189.46,1,0,1,0,
+POL-10809,43,Kuala Lumpur,Medical & Health,45,222.11,0,0,1,0,
+POL-10810,39,Kuala Lumpur,Life Protection,14,120.42,0,0,0,0,
+POL-10811,35,Penang,Medical & Health,24,291.3,2,0,1,0,
+POL-10812,44,Kuala Lumpur,Life Protection,40,167.64,0,1,0,0,
+POL-10813,35,Selangor,Life Protection,17,135.34,0,1,1,0,
+POL-10814,34,Selangor,Motor Comprehensive,22,115.1,0,,1,0,
+POL-10815,44,Penang,Medical & Health,17,184.08,0,0,1,0,
+POL-10816,37,Selangor,Motor Comprehensive,29,166.57,2,0,1,0,
+POL-10817,44,Selangor,Life Protection,28,152.11,1,3,1,1,Poor customer service
+POL-10818,44,Sarawak,Motor Comprehensive,72,124.75,0,0,0,0,
+POL-10819,28,Kuala Lumpur,Medical & Health,40,242.39,1,1,1,1,Premium too expensive
+POL-10820,36,Penang,Life Protection,10,132.95,0,0,0,0,
+POL-10821,57,Kuala Lumpur,Medical & Health,10,220.42,1,3,1,1,Competitor offered better price
+POL-10822,28,selangor,Motor Comprehensive,44,128.52,0,0,0,0,
+POL-10823,21,Sarawak,Life Protection,28,108.49,0,0,0,0,
+POL-10824,21,johor,Investment-Linked,88,404.78,4,0,0,0,
+POL-10825,41,Johor,Life Protection,88,158.18,3,1,1,0,
+POL-10826,41, Kuala Lumpur ,Motor Comprehensive,13,123.96,0,0,0,0,
+POL-10827,40,selangor,Medical & Health,34,211.88,0,0,0,0,
+POL-10828,54,Selangor,Motor Comprehensive,11,128.03,0,1,2,0,
+POL-10829,21, Selangor ,Life Protection,44,223.52,2,0,1,1,Claim rejected or dissatisfied
+POL-10830,45,Selangor,Life Protection,78,119.14,0,1,0,0,
+POL-10831,58,Selangor,Medical & Health,31,192.78,0,0,2,0,
+POL-10832,29,Selangor,Medical & Health,20,248.08,1,1,2,1,Poor customer service
+POL-10833,37,KUALA LUMPUR,Medical & Health,36,236.83,1,,3,0,
+POL-10834,33, Selangor ,Investment-Linked,50,426.25,0,4,1,1,Premium too expensive
+POL-10835,31,Kuala Lumpur,Life Protection,50,318.48,1,1,1,1,Poor customer service
+POL-10836,37,Penang,Medical & Health,20,244.85,0,0,0,1,Premium too expensive
+POL-10837,57,Johor,Investment-Linked,17,504.17,1,0,1,1,Premium too expensive
+POL-10838,61,Kuala Lumpur,Medical & Health,32,194.48,3,,0,1,Premium too expensive
+POL-10839,37,Johor,Life Protection,21,124.83,0,1,0,0,
+POL-10840,62, Penang ,Motor Comprehensive,60,110.93,2,3,1,0,
+POL-10841,41,Kuala Lumpur,Investment-Linked,21,454.03,1,,1,1,Premium too expensive
+POL-10842,60,Kuala Lumpur,Motor Comprehensive,29,132.85,0,2,2,1,Competitor offered better price
+POL-10843,40,Kuala Lumpur,Life Protection,35,176.97,1,0,4,0,
+POL-10844,42,kuala lumpur,Investment-Linked,8,360.17,0,1,1,0,
+POL-10845,45,Penang,Medical & Health,18,191.26,1,1,1,0,
+POL-10846,70,sarawak,Investment-Linked,86,363.29,1,0,0,0,
+POL-10847,50,Kuala Lumpur,Motor Comprehensive,49,143.83,1,1,1,0,
+POL-10848,33,Johor,Investment-Linked,21,468.88,2,0,1,1,Premium too expensive
+POL-10849,52,kuala lumpur,Medical & Health,44,163.29,0,1,0,0,
+POL-10850,37,Johor,Medical & Health,59,254.09,1,3,0,1,Competitor offered better price
+POL-10851,36,Penang,Motor Comprehensive,24,101.98,1,,0,0,
+POL-10852,51,Selangor,Life Protection,47,179.9,0,1,0,1,Premium too expensive
+POL-10853,41,Kuala Lumpur,Life Protection,43,152.5,1,0,1,0,
+POL-10854,44,Johor,Investment-Linked,11,562.07,1,0,2,1,Premium too expensive
+POL-10855,41,Sarawak,Motor Comprehensive,24,108.09,1,2,1,0,
+POL-10856,45,Kuala Lumpur,Life Protection,73,167.31,2,1,1,1,No longer needs coverage
+POL-10857,46,Kuala Lumpur,Life Protection,84,186.2,0,1,0,0,
+POL-10858,21,Kuala Lumpur,Medical & Health,49,168.78,2,2,1,1,No longer needs coverage
+POL-10859,48,Selangor,Medical & Health,17,206.21,0,1,0,0,
+POL-10860,30,Johor,Medical & Health,3,196.46,1,0,0,0,
+POL-10861,25,Penang,Motor Comprehensive,16,105.53,1,1,1,0,
+POL-10862,40,Penang,Motor Comprehensive,9,107.51,0,4,1,1,Premium too expensive
+POL-10863,42,Sarawak,Life Protection,76,211.28,1,0,1,1,Claim rejected or dissatisfied
+POL-10864,33,penang,Life Protection,5,137.76,1,1,1,1,Premium too expensive
+POL-10865,50,Kuala Lumpur,Motor Comprehensive,11,138.25,0,0,0,0,
+POL-10866,26,Selangor,Motor Comprehensive,32,129.82,0,1,0,1,No longer needs coverage
+POL-10867,37,Selangor,Investment-Linked,28,267.98,0,0,1,1,Claim rejected or dissatisfied
+POL-10868,35, Selangor ,Life Protection,71,182.17,3,0,1,0,
+POL-10869,40,Sarawak,Motor Comprehensive,41,84.28,0,,0,0,
+POL-10870,44,Johor,Life Protection,25,187.2,0,1,0,1,Premium too expensive
+POL-10871,30,Sarawak,Life Protection,61,140.95,1,0,0,0,
+POL-10872,49,Selangor,Investment-Linked,21,380.8,0,0,0,1,Claim rejected or dissatisfied
+POL-10873,42,Selangor,Life Protection,74,115.77,1,0,2,0,
+POL-10874,21,Selangor,Life Protection,14,164.97,1,1,1,0,
+POL-10875,21,kuala lumpur,Life Protection,27,201.73,1,0,2,0,
+POL-10876,41,Kuala Lumpur,Life Protection,4,130.77,0,1,1,0,
+POL-10877,39,Selangor,Life Protection,51,137.47,0,0,0,0,
+POL-10878,40, Kuala Lumpur ,Motor Comprehensive,31,134.44,1,0,1,0,
+POL-10879,41,Sarawak,Life Protection,75,180.38,2,1,0,0,
+POL-10880,43,Kuala Lumpur,Medical & Health,23,114.27,0,1,1,0,
+POL-10881,51,Kuala Lumpur,Investment-Linked,8,628.93,0,0,0,1,Poor customer service
+POL-10882,29,Penang,Life Protection,38,182.6,0,2,0,0,
+POL-10883,28,Kuala Lumpur,Investment-Linked,18,452.32,2,2,0,1,Premium too expensive
+POL-10884,29,Sarawak,Medical & Health,46,202.6,2,1,1,0,
+POL-10885,44,Johor,Motor Comprehensive,14,75.46,0,,0,0,
+POL-10886,55, Kuala Lumpur ,Life Protection,66,189.4,1,2,1,1,Premium too expensive
+POL-10887,36,Johor,Motor Comprehensive,29,104.19,2,1,1,0,
+POL-10888,21, Johor ,Medical & Health,25,240.59,0,1,4,0,
+POL-10889,22,PENANG,Investment-Linked,63,359.77,1,0,0,0,
+POL-10890,32,Penang,Life Protection,51,169.81,1,1,1,1,Competitor offered better price
+POL-10891,35,Johor,Motor Comprehensive,16,98.86,0,0,2,0,
+POL-10892,37,Johor,Life Protection,50,198.6,3,2,2,0,
+POL-10893,41,Selangor,Medical & Health,44,156.02,0,0,2,0,
+POL-10894,38,Johor,Life Protection,26,280.5,1,,0,0,
+POL-10895,53,Sarawak,Medical & Health,48,367.45,1,0,0,0,
+POL-10896,34,Johor,Life Protection,66,240.65,0,0,1,0,
+POL-10897,32,johor,Motor Comprehensive,27,165.07,0,0,0,0,
+POL-10898,46, Selangor ,Life Protection,27,156.65,1,0,0,0,
+POL-10899,24,Penang,Medical & Health,26,281.11,0,1,0,0,
+POL-10900,45,Sarawak,Medical & Health,15,205.01,0,2,0,0,
+POL-10901,42,Kuala Lumpur,Medical & Health,26,142.41,2,1,1,1,Poor customer service
+POL-10902,39, Kuala Lumpur ,Medical & Health,24,305.79,0,0,0,1,Premium too expensive
+POL-10903,58,Selangor,Motor Comprehensive,23,159.13,2,1,4,1,Claim rejected or dissatisfied
+POL-10904,34,Selangor,Medical & Health,23,208.36,0,0,0,0,
+POL-10905,64,Selangor,Investment-Linked,11,279.74,1,1,0,0,
+POL-10906,39,Kuala Lumpur,Medical & Health,54,181.37,3,1,0,0,
+POL-10907,27,Selangor,Medical & Health,18,133.2,0,0,0,0,
+POL-10908,42,Johor,Investment-Linked,68,481.28,1,1,0,0,
+POL-10909,29,Johor,Medical & Health,13,140.65,0,0,0,0,
+POL-10910,33,Johor,Life Protection,78,171.89,1,1,1,0,
+POL-10911,45,johor,Investment-Linked,21,307.74,1,1,0,1,Claim rejected or dissatisfied
+POL-10912,47, Johor ,Investment-Linked,51,266,0,0,0,0,
+POL-10913,34,Penang,Motor Comprehensive,31,127.37,0,1,0,0,
+POL-10914,52,Johor,Medical & Health,10,193.19,1,1,1,1,Poor customer service
+POL-10915,54,Selangor,Motor Comprehensive,10,147.97,0,1,0,1,Competitor offered better price
+POL-10916,57,johor,Investment-Linked,17,276.79,0,1,2,1,Poor customer service
+POL-10917,47,kuala lumpur,Investment-Linked,20,314.46,0,0,0,1,Premium too expensive
+POL-10918,56,Kuala Lumpur,Medical & Health,27,115.61,3,1,2,1,Poor customer service
+POL-10919,21,Selangor,Life Protection,35,92.67,1,,0,0,
+POL-10920,38,Penang,Life Protection,25,250.82,0,,0,0,
+POL-10921,31,Johor,Medical & Health,34,353.54,0,2,0,0,
+POL-10922,42,Kuala Lumpur,Motor Comprehensive,38,122.81,0,0,1,1,Premium too expensive
+POL-10923,35,Johor,Medical & Health,24,170.91,0,0,1,0,
+POL-10924,39,Kuala Lumpur,Life Protection,43,148.5,1,3,1,0,
+POL-10925,62,Johor,Medical & Health,50,261.26,2,1,0,0,
+POL-10926,39,Penang,Life Protection,38,140.69,1,0,0,0,
+POL-10927,46,Johor,Medical & Health,40,222.85,0,0,1,0,
+POL-10928,38,johor,Life Protection,32,159.49,0,0,0,0,
+POL-10929,42,Selangor,Medical & Health,58,182.16,2,1,3,0,
+POL-10930,41,Selangor,Investment-Linked,28,333.16,2,0,2,0,
+POL-10931,46,penang,Medical & Health,17,225.98,2,,2,1,Premium too expensive
+POL-10932,54,Johor,Life Protection,28,125.33,2,0,0,1,Premium too expensive
+POL-10933,59,selangor,Medical & Health,10,235.11,0,0,1,0,
+POL-10934,44,Selangor,Medical & Health,9,186.65,0,1,2,1,Poor customer service
+POL-10935,47,Kuala Lumpur,Medical & Health,50,216.79,1,1,0,0,
+POL-10936,28,Kuala Lumpur,Medical & Health,69,296.81,1,0,0,0,
+POL-10937,40,Kuala Lumpur,Medical & Health,22,201.35,3,1,0,0,
+POL-10938,51,Selangor,Life Protection,50,201.37,0,1,2,1,Competitor offered better price
+POL-10939,51,Sarawak,Motor Comprehensive,5,76.67,0,1,2,0,
+POL-10940,43,Selangor,Medical & Health,39,186.7,0,1,2,0,
+POL-10941,51, Kuala Lumpur ,Life Protection,28,161.11,2,1,0,0,
+POL-10942,46,Kuala Lumpur,Motor Comprehensive,76,194.09,3,0,0,0,
+POL-10943,54,selangor,Medical & Health,25,128.65,0,0,1,0,
+POL-10944,44,Penang,Life Protection,12,156.2,0,2,0,0,
+POL-10945,37,Selangor,Medical & Health,8,302.26,0,4,4,1,Poor customer service
+POL-10946,45,Penang,Medical & Health,28,172.58,0,0,0,0,
+POL-10947,21,Penang,Life Protection,32,151.71,0,1,1,0,
+POL-10948,45,Kuala Lumpur,Investment-Linked,24,412.86,1,0,0,0,
+POL-10949,21,Johor,Investment-Linked,51,397.94,1,1,1,1,Competitor offered better price
+POL-10950,22,Sarawak,Investment-Linked,64,562.06,0,0,0,1,Relocated or moved abroad
+POL-10951,46,Selangor,Life Protection,22,178.98,0,1,1,0,
+POL-10952,46,Kuala Lumpur,Medical & Health,6,292.67,0,,0,0,
+POL-10953,28,Sarawak,Life Protection,34,146.23,3,1,0,0,
+POL-10954,33,sarawak,Medical & Health,58,174.51,2,0,3,0,
+POL-10955,56,Selangor,Medical & Health,22,198.48,0,0,0,0,
+POL-10956,36, Selangor ,Medical & Health,40,157.17,2,1,0,0,
+POL-10957,66,Kuala Lumpur,Life Protection,11,180.56,0,1,0,0,
+POL-10958,41,Penang,Life Protection,34,145.29,0,1,0,0,
+POL-10959,45,Selangor,Medical & Health,40,177.53,0,0,0,0,
+POL-10960,59,Kuala Lumpur,Motor Comprehensive,34,135.93,1,0,1,0,
+POL-10961,42,Johor,Life Protection,89,120.21,2,2,1,0,
+POL-10962,30,Sarawak,Investment-Linked,69,460.72,2,0,0,0,
+POL-10963,40,Penang,Medical & Health,45,186.33,1,,0,0,
+POL-10964,41,Kuala Lumpur,Life Protection,55,213.78,1,1,1,0,
+POL-10965,26,Kuala Lumpur,Medical & Health,33,190.36,0,1,0,0,
+POL-10966,38,Sarawak,Life Protection,27,187.38,0,2,1,0,
+POL-10967,33,Sarawak,Medical & Health,20,219.64,1,0,1,1,Premium too expensive
+POL-10968,51,Selangor,Medical & Health,11,252.92,1,2,0,0,
+POL-10969,41,Johor,Motor Comprehensive,71,123.34,3,,0,0,
+POL-10970,38,Selangor,Medical & Health,91,138.55,0,1,1,0,
+POL-10971,40,Selangor,Medical & Health,29,270.24,1,,0,0,
+POL-10972,43,kuala lumpur,Investment-Linked,29,371.76,1,0,0,0,
+POL-10973,48,Kuala Lumpur,Medical & Health,42,255.82,0,0,1,0,
+POL-10974,30,Kuala Lumpur,Motor Comprehensive,25,142.6,0,,0,0,
+POL-10975,30,Penang,Life Protection,12,131.87,0,0,2,0,
+POL-10976,53,Kuala Lumpur,Medical & Health,10,167.07,1,1,1,0,
+POL-10977,36,Kuala Lumpur,Life Protection,89,188.48,0,0,1,0,
+POL-10978,25,Selangor,Medical & Health,7,194.67,0,0,1,0,
+POL-10979,46,Kuala Lumpur,Motor Comprehensive,35,151.65,0,0,1,0,
+POL-10980,46,Kuala Lumpur,Medical & Health,7,200.85,0,1,0,1,Premium too expensive
+POL-10981,24,Selangor,Medical & Health,26,271.23,0,0,0,0,
+POL-10982,44,Selangor,Life Protection,22,177.86,0,1,1,0,
+POL-10983,49,Johor,Investment-Linked,9,408.37,1,1,1,1,Poor customer service
+POL-10984,45,Sarawak,Motor Comprehensive,43,109.29,1,1,1,0,
+POL-10985,48, Kuala Lumpur ,Investment-Linked,12,402.73,0,1,0,0,
+POL-10986,26,Sarawak,Motor Comprehensive,8,161.69,0,0,1,1,Poor customer service
+POL-10987,45,Sarawak,Motor Comprehensive,46,118.38,0,0,1,0,
+POL-10988,38,Penang,Life Protection,22,182.72,0,0,1,0,
+POL-10989,36,Johor,Investment-Linked,16,384.43,3,1,0,0,
+POL-10990,51,Johor,Life Protection,47,165.06,0,0,0,0,
+POL-10991,57,Johor,Life Protection,11,246.17,0,0,1,0,
+POL-10992,61,Johor,Motor Comprehensive,6,162.05,2,0,0,0,
+POL-10993,55,Kuala Lumpur,Life Protection,62,163.21,1,0,0,0,
+POL-10994,40,Sarawak,Medical & Health,82,221.57,1,,0,0,
+POL-10995,45,Johor,Life Protection,25,134.25,0,0,0,0,
+POL-10996,49,PENANG,Life Protection,1,153.23,2,1,2,1,Poor customer service
+POL-10997,42,SELANGOR,Motor Comprehensive,25,129.65,0,2,1,0,
+POL-10998,42,Kuala Lumpur,Life Protection,49,197.91,1,0,0,0,
+POL-10999,50,Selangor,Motor Comprehensive,58,144.72,1,2,0,0,
+POL-11000,40,Selangor,Life Protection,12,121.25,0,,2,0,
+POL-11001,33,Selangor,Motor Comprehensive,22,153.2,0,1,0,0,
+POL-11002,36, Selangor ,Medical & Health,33,205.39,0,1,0,0,
+POL-11003,48,Kuala Lumpur,Investment-Linked,47,296.91,1,0,1,0,
+POL-11004,41, Selangor ,Life Protection,44,223.47,1,1,1,0,
+POL-11005,45,Selangor,Medical & Health,40,302.76,1,1,1,0,
+POL-11006,48,Sarawak,Medical & Health,58,224.31,0,1,0,0,
+POL-11007,37,Kuala Lumpur,Medical & Health,27,250.71,2,1,1,0,
+POL-11008,49,Selangor,Life Protection,71,193.84,1,0,1,0,
+POL-11009,45,Selangor,Motor Comprehensive,18,170.11,0,1,1,0,
+POL-11010,27,Selangor,Investment-Linked,45,455.86,0,1,1,0,
+POL-11011,57,SELANGOR,Motor Comprehensive,20,86.11,0,0,0,1,Poor customer service
+POL-11012,35,Johor,Life Protection,26,264.44,0,0,0,0,
+POL-11013,23,Sarawak,Life Protection,29,208.84,1,1,0,0,
+POL-11014,30,selangor,Motor Comprehensive,20,105.65,0,0,1,1,No longer needs coverage
+POL-11015,30,Johor,Motor Comprehensive,59,92.77,1,0,0,0,
+POL-11016,42,kuala lumpur,Medical & Health,21,238.25,1,0,1,0,
+POL-11017,38, Kuala Lumpur ,Investment-Linked,28,354.46,0,0,1,1,Competitor offered better price
+POL-11018,37,Selangor,Life Protection,41,173.76,1,1,2,0,
+POL-11019,48,Kuala Lumpur,Motor Comprehensive,114,144.51,0,0,0,0,
+POL-11020,45,Johor,Investment-Linked,42,329.82,0,0,1,0,
+POL-11021,44,Johor,Motor Comprehensive,29,90.78,1,1,0,0,
+POL-11022,46,Johor,Medical & Health,5,231.26,1,1,1,1,Claim rejected or dissatisfied
+POL-11023,48,Selangor,Motor Comprehensive,25,105.02,1,,1,0,
+POL-11024,21,Johor,Medical & Health,17,217.81,1,,0,1,Claim rejected or dissatisfied
+POL-11025,37,Selangor,Motor Comprehensive,22,85.77,2,0,0,0,
+POL-11026,21,Kuala Lumpur,Medical & Health,20,197.17,1,1,2,1,Claim rejected or dissatisfied
+POL-11027,41,Kuala Lumpur,Motor Comprehensive,41,143.48,0,1,0,0,
+POL-11028,41,Johor,Investment-Linked,25,442.15,0,0,0,0,
+POL-11029,53,Sarawak,Medical & Health,14,172.43,0,1,1,1,Premium too expensive
+POL-11030,54,kuala lumpur,Life Protection,51,119.48,2,0,0,0,
+POL-11031,43,Selangor,Motor Comprehensive,10,120.47,0,0,1,0,
+POL-11032,35,Penang,Life Protection,28,184.09,1,1,0,1,Competitor offered better price
+POL-11033,46,Penang,Medical & Health,25,232.39,0,1,0,0,
+POL-11034,35,Selangor,Medical & Health,36,184.76,0,0,0,0,
+POL-11035,41,Johor,Life Protection,58,172.37,1,0,0,0,
+POL-11036,52, Johor ,Motor Comprehensive,120,174.7,0,0,0,0,
+POL-11037,35,Penang,Motor Comprehensive,29,126.31,1,1,0,0,
+POL-11038,50,Kuala Lumpur,Medical & Health,17,139.61,0,1,0,0,
+POL-11039,48, Sarawak ,Life Protection,16,168.34,0,0,2,0,
+POL-11040,30,Kuala Lumpur,Life Protection,16,266.71,2,0,1,0,
+POL-11041,52,Penang,Medical & Health,35,152.21,0,1,2,0,
+POL-11042,49,Kuala Lumpur,Motor Comprehensive,4,120.9,1,3,1,1,Premium too expensive
+POL-11043,42, Kuala Lumpur ,Life Protection,10,151.2,1,2,0,1,Poor customer service
+POL-11044,33,Kuala Lumpur,Life Protection,35,163.88,0,0,0,0,
+POL-11045,32,Selangor,Investment-Linked,52,398.91,1,1,0,0,
+POL-11046,35,SELANGOR,Life Protection,52,212.76,1,1,2,0,
+POL-11047,47,Kuala Lumpur,Motor Comprehensive,30,122.57,3,0,0,0,
+POL-11048,30,Selangor,Medical & Health,48,289,0,0,1,0,
+POL-11049,46, Selangor ,Medical & Health,59,203.91,2,1,2,0,
+POL-11050,27,Penang,Medical & Health,21,192.4,0,0,1,0,
+POL-11051,39,Sarawak,Motor Comprehensive,55,101.51,0,0,0,0,
+POL-11052,42,Johor,Motor Comprehensive,7,76.19,0,1,1,1,Premium too expensive
+POL-11053,68,Kuala Lumpur,Medical & Health,10,224.99,1,0,0,0,
+POL-11054,26,selangor,Medical & Health,22,350.94,2,0,0,0,
+POL-11055,57,Sarawak,Life Protection,6,179.42,1,0,2,0,
+POL-11056,43,Kuala Lumpur,Motor Comprehensive,41,142.48,0,1,1,0,
+POL-11057,46, Selangor ,Motor Comprehensive,19,108.23,0,2,1,0,
+POL-11058,42,Sarawak,Motor Comprehensive,26,112.89,0,3,0,1,Premium too expensive
+POL-11059,46,Sarawak,Investment-Linked,26,486.06,0,0,0,0,
+POL-11060,39,Selangor,Medical & Health,21,346.98,0,1,1,0,
+POL-11061,57, Johor ,Motor Comprehensive,15,174.07,0,1,0,1,Relocated or moved abroad
+POL-11062,36,Selangor,Motor Comprehensive,40,146.76,0,1,1,1,Poor customer service
+POL-11063,53,Penang,Life Protection,18,161.41,1,1,0,1,Premium too expensive
+POL-11064,34,Kuala Lumpur,Investment-Linked,26,400.45,2,2,1,0,
+POL-11065,40,Kuala Lumpur,Medical & Health,36,173.94,1,3,0,1,Competitor offered better price
+POL-11066,29,Johor,Motor Comprehensive,58,83.55,3,0,0,0,
+POL-11067,46,Kuala Lumpur,Motor Comprehensive,56,90.54,2,2,0,0,
+POL-11068,57, Johor ,Investment-Linked,20,384.76,0,,0,0,
+POL-11069,40,Selangor,Life Protection,15,148.74,1,0,1,0,
+POL-11070,39,Sarawak,Life Protection,66,110.81,1,,1,0,
+POL-11071,29,Penang,Motor Comprehensive,18,118.89,0,0,0,0,
+POL-11072,38, Selangor ,Motor Comprehensive,39,110.82,2,0,0,0,
+POL-11073,23,Penang,Life Protection,6,119.34,0,2,0,0,
+POL-11074,31,Kuala Lumpur,Motor Comprehensive,4,109.39,0,1,1,1,Competitor offered better price
+POL-11075,43,Selangor,Medical & Health,29,193.81,2,0,2,0,
+POL-11076,56,kuala lumpur,Motor Comprehensive,24,102.86,0,0,1,0,
+POL-11077,70,Penang,Investment-Linked,46,479.07,0,0,0,0,
+POL-11078,35, Penang ,Life Protection,16,99.43,1,1,0,0,
+POL-11079,57, Sarawak ,Life Protection,34,97.39,0,0,1,0,
+POL-11080,44,Penang,Investment-Linked,44,380.31,3,0,2,0,
+POL-11081,39,Sarawak,Motor Comprehensive,16,122.92,0,0,3,1,Poor customer service
+POL-11082,46,Kuala Lumpur,Investment-Linked,22,420.41,4,2,1,1,Premium too expensive
+POL-11083,42, Sarawak ,Life Protection,11,139.83,0,3,3,1,Poor customer service
+POL-11084,42,Selangor,Investment-Linked,47,302.08,0,0,0,1,Competitor offered better price
+POL-11085,37,Selangor,Medical & Health,40,209.62,1,3,4,0,
+POL-11086,26, Selangor ,Life Protection,42,143.28,4,2,1,0,
+POL-11087,24,Selangor,Life Protection,23,235.79,0,0,0,0,
+POL-11088,48,SELANGOR,Motor Comprehensive,40,110.66,1,1,1,1,Claim rejected or dissatisfied
+POL-11089,38, Kuala Lumpur ,Investment-Linked,25,374.98,0,1,0,1,Claim rejected or dissatisfied
+POL-11090,34,Kuala Lumpur,Motor Comprehensive,73,222.82,3,0,1,0,
+POL-11091,41, Selangor ,Motor Comprehensive,28,114.3,0,0,1,0,
+POL-11092,50,Sarawak,Life Protection,53,183.87,2,1,1,0,
+POL-11093,43,Johor,Life Protection,24,188.06,0,1,1,0,
+POL-11094,34, Selangor ,Life Protection,64,192.1,2,0,0,0,
+POL-11095,54,Selangor,Medical & Health,15,225.76,1,,1,1,Poor customer service
+POL-11096,58,Selangor,Life Protection,37,167.94,0,1,0,1,Poor customer service
+POL-11097,46,Kuala Lumpur,Investment-Linked,17,389.65,0,0,0,0,
+POL-11098,52,Penang,Motor Comprehensive,33,103.91,1,1,0,1,No longer needs coverage
+POL-11099,55,Kuala Lumpur,Motor Comprehensive,18,130.17,0,0,1,0,
+POL-11100,53,Johor,Life Protection,28,265.69,0,0,0,1,Premium too expensive
+POL-11101,48,penang,Life Protection,20,216.55,0,2,0,0,
+POL-11102,48, Selangor ,Medical & Health,43,226.58,0,1,0,1,Premium too expensive
+POL-11103,47,Penang,Life Protection,38,198.17,1,1,0,0,
+POL-11104,29, Selangor ,Life Protection,17,128.75,0,3,2,1,No longer needs coverage
+POL-11105,49,sarawak,Medical & Health,16,196.76,1,0,1,0,
+POL-11106,26,Johor,Medical & Health,14,266.15,1,0,1,0,
+POL-11107,32,Penang,Motor Comprehensive,12,174.04,1,1,1,0,
+POL-11108,55,Johor,Life Protection,45,131.95,0,0,1,1,Claim rejected or dissatisfied
+POL-11109,50,Penang,Life Protection,13,141.78,2,0,1,0,
+POL-11110,57,sarawak,Medical & Health,35,362.29,1,1,0,0,
+POL-11111,38,Selangor,Life Protection,19,163.9,2,1,2,1,Poor customer service
+POL-11112,28,Penang,Life Protection,52,252.4,3,0,0,0,
+POL-11113,38,Johor,Life Protection,85,168.49,2,0,0,0,
+POL-11114,42,selangor,Motor Comprehensive,1,127.62,1,1,1,1,Premium too expensive
+POL-11115,42, Sarawak ,Medical & Health,15,194.56,1,1,0,0,
+POL-11116,53,Selangor,Investment-Linked,19,480.97,0,1,0,0,
+POL-11117,37,Selangor,Medical & Health,24,294.88,2,1,2,1,Competitor offered better price
+POL-11118,45,kuala lumpur,Life Protection,23,123.52,0,0,1,0,
+POL-11119,30,Kuala Lumpur,Medical & Health,9,192.29,0,1,2,1,No longer needs coverage
+POL-11120,46, Penang ,Life Protection,86,201.13,1,0,2,0,
+POL-11121,41,Selangor,Medical & Health,24,203.31,3,1,0,0,
+POL-11122,33,Selangor,Investment-Linked,38,335.9,1,1,1,0,
+POL-11123,38,Kuala Lumpur,Life Protection,39,205.93,1,1,1,0,
+POL-11124,39,Selangor,Motor Comprehensive,8,158.12,1,1,3,0,
+POL-11125,38,Penang,Medical & Health,21,187.67,0,1,1,0,
+POL-11126,60,Sarawak,Medical & Health,45,221.45,3,1,1,0,
+POL-11127,40,Kuala Lumpur,Life Protection,66,118.28,1,2,2,0,
+POL-11128,38,Selangor,Life Protection,22,127.91,0,1,0,0,
+POL-11129,21,Selangor,Life Protection,9,165.04,2,1,1,1,Poor customer service
+POL-11130,31,Johor,Investment-Linked,18,383,1,1,1,1,Premium too expensive
+POL-11131,38,Selangor,Motor Comprehensive,21,94.23,1,0,0,0,
+POL-11132,33,Selangor,Investment-Linked,20,317.72,1,1,1,0,
+POL-11133,56,Selangor,Medical & Health,14,160.91,0,0,2,0,
+POL-11134,39,Johor,Motor Comprehensive,8,134.46,0,2,0,0,
+POL-11135,55,Selangor,Motor Comprehensive,11,73.37,0,3,0,1,Premium too expensive
+POL-11136,42,Selangor,Motor Comprehensive,18,93.19,0,0,1,0,
+POL-11137,41,Penang,Investment-Linked,45,238.52,1,0,2,0,
+POL-11138,40,Johor,Motor Comprehensive,56,133.25,0,,1,0,
+POL-11139,41,SELANGOR,Investment-Linked,30,242.13,1,0,1,0,
+POL-11140,60,Penang,Motor Comprehensive,11,120.96,0,1,1,1,Poor customer service
+POL-11141,21,Penang,Medical & Health,19,316.39,1,0,1,0,
+POL-11142,21,Kuala Lumpur,Motor Comprehensive,4,182.34,0,2,2,1,Poor customer service
+POL-11143,35,Johor,Life Protection,67,101.87,1,1,2,1,No longer needs coverage
+POL-11144,41, Selangor ,Investment-Linked,16,409.43,0,0,0,0,
+POL-11145,49,Johor,Motor Comprehensive,36,93.71,0,0,1,1,Competitor offered better price
+POL-11146,46, Kuala Lumpur ,Medical & Health,54,155.84,0,1,0,1,Premium too expensive
+POL-11147,37,johor,Medical & Health,79,204.13,2,1,3,0,
+POL-11148,52,Kuala Lumpur,Medical & Health,48,285.48,0,1,0,0,
+POL-11149,52,Selangor,Life Protection,20,185.88,1,0,3,0,
+POL-11150,43, Sarawak ,Medical & Health,39,175.62,1,0,0,0,
+POL-11151,52,Selangor,Motor Comprehensive,77,143.13,1,1,1,0,
+POL-11152,44,penang,Motor Comprehensive,16,68.48,0,1,1,0,
+POL-11153,35,Sarawak,Motor Comprehensive,8,99.41,0,0,0,0,
+POL-11154,49,Penang,Medical & Health,14,170.91,0,0,1,0,
+POL-11155,42,KUALA LUMPUR,Life Protection,38,163.16,2,0,1,0,
+POL-11156,41,Penang,Medical & Health,21,199.62,0,0,1,0,
+POL-11157,57,Kuala Lumpur,Investment-Linked,26,366.8,1,2,1,0,
+POL-11158,21,Selangor,Medical & Health,42,201.02,2,1,0,0,
+POL-11159,25,Penang,Medical & Health,14,211.18,1,2,0,0,
+POL-11160,28,Johor,Medical & Health,25,240.36,1,1,0,0,
+POL-11161,37,Selangor,Motor Comprehensive,18,124.56,1,0,1,0,
+POL-11162,38,Selangor,Medical & Health,75,195.59,0,0,1,0,
+POL-11163,24,Penang,Motor Comprehensive,47,132.68,1,1,0,0,
+POL-11164,30,Johor,Motor Comprehensive,21,147.53,1,0,0,0,
+POL-11165,32,Selangor,Motor Comprehensive,20,104.43,0,0,0,0,
+POL-11166,68,SARAWAK,Medical & Health,81,206.9,1,1,1,0,
+POL-11167,61,Kuala Lumpur,Medical & Health,77,280.78,3,0,1,1,Poor customer service
+POL-11168,36,Kuala Lumpur,Life Protection,37,121.45,1,0,1,0,
+POL-11169,37,Johor,Medical & Health,27,329.73,0,0,1,0,
+POL-11170,28,Sarawak,Motor Comprehensive,10,85.86,0,1,1,0,
+POL-11171,21,Kuala Lumpur,Life Protection,14,146.76,0,,0,0,
+POL-11172,40,Kuala Lumpur,Life Protection,9,126.17,0,1,1,1,Poor customer service
+POL-11173,30,Kuala Lumpur,Medical & Health,55,362.89,0,1,1,1,Premium too expensive
+POL-11174,40,penang,Motor Comprehensive,10,105.81,0,1,1,0,
+POL-11175,23,Kuala Lumpur,Medical & Health,20,185.29,1,0,1,0,
+POL-11176,33,selangor,Motor Comprehensive,5,109.38,0,1,1,0,
+POL-11177,43, Sarawak ,Medical & Health,7,215.08,0,3,3,1,Premium too expensive
+POL-11178,45,Kuala Lumpur,Investment-Linked,43,350.04,0,1,0,0,
+POL-11179,46,selangor,Motor Comprehensive,34,116.08,2,0,3,0,
+POL-11180,26,Selangor,Medical & Health,27,86.9,1,1,0,0,
+POL-11181,50,Penang,Medical & Health,20,213.02,1,0,0,0,
+POL-11182,32,Selangor,Life Protection,6,160.71,0,0,1,0,
+POL-11183,48, Selangor ,Medical & Health,18,272.26,0,0,0,0,
+POL-11184,41,Kuala Lumpur,Medical & Health,24,291.31,0,0,1,1,Competitor offered better price
+POL-11185,26,Johor,Investment-Linked,41,362.58,1,0,1,0,
+POL-11186,38,Penang,Motor Comprehensive,53,147.16,0,1,0,0,
+POL-11187,45,Kuala Lumpur,Medical & Health,44,159.45,0,1,0,0,
+POL-11188,48,Selangor,Motor Comprehensive,33,145.38,5,0,2,1,Competitor offered better price
+POL-11189,39,Sarawak,Medical & Health,27,182,0,1,0,0,
+POL-11190,58,Kuala Lumpur,Investment-Linked,31,282.59,0,0,0,0,
+POL-11191,52,Selangor,Medical & Health,17,200.48,0,1,2,1,Relocated or moved abroad
+POL-11192,38,Selangor,Motor Comprehensive,29,170.31,1,0,0,0,
+POL-11193,49,Selangor,Motor Comprehensive,24,125.55,0,1,0,0,
+POL-11194,62,Kuala Lumpur,Medical & Health,102,305.28,1,1,1,0,
+POL-11195,63,Selangor,Medical & Health,32,174.15,0,2,0,0,
+POL-11196,27,Kuala Lumpur,Life Protection,4,207.92,0,2,1,1,Premium too expensive
+POL-11197,31,Selangor,Investment-Linked,19,322.83,1,0,1,0,
+POL-11198,57,Johor,Life Protection,22,169.27,0,0,1,1,Poor customer service
+POL-11199,29,Selangor,Motor Comprehensive,48,126.68,0,1,0,0,
+POL-11200,26,Kuala Lumpur,Motor Comprehensive,35,141.58,1,0,0,0,
+POL-11201,36,Penang,Motor Comprehensive,33,127.76,0,0,0,0,
+POL-11202,46, Kuala Lumpur ,Life Protection,63,133,2,1,1,0,
+POL-11203,40,Penang,Life Protection,77,199.39,0,0,0,0,
+POL-11204,34, Selangor ,Motor Comprehensive,43,185.01,0,0,1,0,
+POL-11205,34,Penang,Medical & Health,20,181.48,1,0,1,0,
+POL-11206,33,Kuala Lumpur,Investment-Linked,21,240.17,2,0,0,1,Claim rejected or dissatisfied
+POL-11207,31,Kuala Lumpur,Medical & Health,57,237.92,0,1,2,1,Premium too expensive
+POL-11208,66,Selangor,Medical & Health,21,193.31,2,,0,0,
+POL-11209,44,Kuala Lumpur,Motor Comprehensive,26,116.13,0,1,1,1,Poor customer service
+POL-11210,51,KUALA LUMPUR,Life Protection,19,183.87,1,0,0,1,Relocated or moved abroad
+POL-11211,36,Johor,Medical & Health,11,187.36,1,0,0,1,Competitor offered better price
+POL-11212,39,Penang,Medical & Health,97,196.35,1,2,0,0,
+POL-11213,33,Kuala Lumpur,Life Protection,26,156.04,2,1,2,0,
+POL-11214,21,Sarawak,Motor Comprehensive,68,173.28,0,1,1,0,
+POL-11215,26,Penang,Medical & Health,21,211.58,0,0,0,0,
+POL-11216,21,Penang,Medical & Health,16,154.19,1,4,0,1,Premium too expensive
+POL-11217,21,Johor,Life Protection,41,118.65,0,1,0,0,
+POL-11218,28,Johor,Investment-Linked,53,393.46,0,1,0,0,
+POL-11219,56,Selangor,Medical & Health,55,158.34,2,1,1,0,
+POL-11220,41, Johor ,Investment-Linked,24,257.13,0,0,0,0,
+POL-11221,55,Sarawak,Investment-Linked,44,445.44,0,0,0,0,
+POL-11222,46,Kuala Lumpur,Medical & Health,18,249.19,0,1,0,1,Claim rejected or dissatisfied
+POL-11223,50,Selangor,Motor Comprehensive,29,109.45,1,0,0,0,
+POL-11224,31,Kuala Lumpur,Motor Comprehensive,22,129.14,1,0,0,1,No longer needs coverage
+POL-11225,47,Sarawak,Life Protection,20,167.7,0,0,0,0,
+POL-11226,49,Selangor,Life Protection,29,186.01,0,1,0,0,
+POL-11227,35,Johor,Motor Comprehensive,11,139.59,0,0,1,0,
+POL-11228,47,Penang,Motor Comprehensive,50,62.55,0,0,1,1,No longer needs coverage
+POL-11229,47,Sarawak,Motor Comprehensive,20,113,1,0,0,0,
+POL-11230,35,Kuala Lumpur,Investment-Linked,49,432.53,1,0,2,0,
+POL-11231,29,Penang,Life Protection,13,144.4,0,0,0,0,
+POL-11232,28,Sarawak,Motor Comprehensive,20,121.09,0,0,2,0,
+POL-11233,42, Kuala Lumpur ,Investment-Linked,11,458.45,0,0,1,1,Premium too expensive
+POL-11234,45,Penang,Medical & Health,11,214.29,1,1,0,1,Competitor offered better price
+POL-11235,32,Selangor,Medical & Health,14,306.15,0,,0,0,
+POL-11236,41,Johor,Life Protection,13,212.07,0,1,1,1,Poor customer service
+POL-11237,47,Selangor,Investment-Linked,11,368.9,1,1,1,1,Poor customer service
+POL-11238,48,Kuala Lumpur,Medical & Health,27,199.86,0,3,2,1,Competitor offered better price
+POL-11239,58,Kuala Lumpur,Motor Comprehensive,40,58.85,0,0,2,0,
+POL-11240,55,Kuala Lumpur,Medical & Health,42,193.54,0,2,0,1,No longer needs coverage
+POL-11241,30,Kuala Lumpur,Life Protection,6,114.08,1,0,1,0,
+POL-11242,60,Johor,Motor Comprehensive,22,126.82,0,,0,0,
+POL-11243,35,Selangor,Medical & Health,20,218.18,1,1,1,0,
+POL-11244,52,Kuala Lumpur,Investment-Linked,63,452.2,1,1,1,0,
+POL-11245,42,Johor,Medical & Health,22,297.76,0,1,0,0,
+POL-11246,36,Johor,Investment-Linked,26,377.51,0,1,2,1,Premium too expensive
+POL-11247,21,Selangor,Medical & Health,8,371.37,0,0,1,0,
+POL-11248,39,Sarawak,Investment-Linked,14,402.74,0,,0,1,No longer needs coverage
+POL-11249,24,Selangor,Motor Comprehensive,7,86.48,1,0,1,1,No longer needs coverage
+POL-11250,52,Penang,Medical & Health,28,182.47,1,1,1,0,
+POL-11251,58,Kuala Lumpur,Medical & Health,65,191.31,1,0,1,0,
+POL-11252,32,Johor,Medical & Health,15,243.51,2,1,1,0,
+POL-11253,44,Sarawak,Motor Comprehensive,23,94.7,0,0,0,0,
+POL-11254,33,Penang,Motor Comprehensive,13,111.39,1,1,0,0,
+POL-11255,34,Selangor,Life Protection,17,153.69,0,1,1,1,Premium too expensive
+POL-11256,50,Johor,Life Protection,29,143.04,1,0,1,0,
+POL-11257,41,Selangor,Motor Comprehensive,84,146.99,2,1,0,0,
+POL-11258,60,Johor,Life Protection,63,187.82,1,0,0,0,
+POL-11259,36, Penang ,Motor Comprehensive,74,160.63,1,,0,0,
+POL-11260,52,Sarawak,Life Protection,49,147.29,1,0,1,0,
+POL-11261,42,Selangor,Motor Comprehensive,22,162.09,1,1,0,0,
+POL-11262,50,Kuala Lumpur,Investment-Linked,20,270.2,0,0,0,1,Premium too expensive
+POL-11263,36,johor,Life Protection,15,113.08,0,0,0,0,
+POL-11264,40,kuala lumpur,Medical & Health,2,155.04,0,2,3,1,No longer needs coverage
+POL-11265,40,Kuala Lumpur,Medical & Health,22,210.48,0,0,0,1,Premium too expensive
+POL-11266,32, Selangor ,Motor Comprehensive,65,162.08,0,1,1,1,Relocated or moved abroad
+POL-11267,48,Johor,Life Protection,65,137.64,1,0,4,1,Premium too expensive
+POL-11268,48,Kuala Lumpur,Investment-Linked,104,337.31,3,,1,1,Competitor offered better price
+POL-11269,48, Kuala Lumpur ,Motor Comprehensive,30,113.69,0,1,1,1,Competitor offered better price
+POL-11270,58, Kuala Lumpur ,Life Protection,10,184.63,0,2,2,1,Premium too expensive
+POL-11271,57,Penang,Motor Comprehensive,38,106.49,1,1,0,0,
+POL-11272,37,Johor,Medical & Health,85,183.78,0,0,0,0,
+POL-11273,45,Kuala Lumpur,Motor Comprehensive,71,85.72,0,1,1,1,No longer needs coverage
+POL-11274,34,Kuala Lumpur,Medical & Health,18,182.03,0,1,0,0,
+POL-11275,41,Selangor,Motor Comprehensive,10,161.07,0,0,3,0,
+POL-11276,34,Selangor,Investment-Linked,10,388.74,1,2,2,1,Premium too expensive
+POL-11277,59,Johor,Motor Comprehensive,15,99.74,0,0,1,0,
+POL-11278,45,selangor,Investment-Linked,17,517.6,0,1,2,0,
+POL-11279,39,Sarawak,Life Protection,21,138.22,0,0,0,0,
+POL-11280,54,Selangor,Motor Comprehensive,42,171.14,0,0,0,0,
+POL-11281,21,Johor,Motor Comprehensive,21,170.44,0,0,0,0,
+POL-11282,21,Kuala Lumpur,Motor Comprehensive,28,121.69,0,0,1,0,
+POL-11283,50,Sarawak,Medical & Health,7,144.38,0,3,0,0,
+POL-11284,42,sarawak,Medical & Health,15,372.22,0,0,0,0,
+POL-11285,44,Johor,Motor Comprehensive,14,132.2,0,,1,0,
+POL-11286,26,Selangor,Medical & Health,6,193.67,0,1,0,0,
+POL-11287,41,Kuala Lumpur,Motor Comprehensive,20,152.4,1,0,0,0,
+POL-11288,63, Penang ,Motor Comprehensive,7,143.03,2,2,3,1,Competitor offered better price
+POL-11289,50,Johor,Investment-Linked,19,527.37,0,2,0,0,
+POL-11290,43,Kuala Lumpur,Medical & Health,29,177.95,1,1,2,0,
+POL-11291,36,Selangor,Investment-Linked,66,411.49,0,0,2,0,
+POL-11292,37,Selangor,Medical & Health,14,156.12,0,0,0,0,
+POL-11293,21,Penang,Life Protection,29,189,0,1,0,1,Relocated or moved abroad
+POL-11294,44, Johor ,Motor Comprehensive,16,119.31,2,1,0,0,
+POL-11295,50,Johor,Medical & Health,7,225.28,1,1,2,1,No longer needs coverage
+POL-11296,24,Johor,Medical & Health,66,202.46,4,1,0,0,
+POL-11297,34,Kuala Lumpur,Medical & Health,30,197.23,1,0,0,0,
+POL-11298,28,Selangor,Life Protection,37,128.78,1,1,2,0,
+POL-11299,30,Kuala Lumpur,Motor Comprehensive,73,146.22,0,0,1,0,
+POL-11300,42,penang,Medical & Health,19,304.76,0,2,2,1,Competitor offered better price
+POL-11301,21,selangor,Medical & Health,9,182.72,0,1,3,1,Poor customer service
+POL-11302,48,Selangor,Motor Comprehensive,13,137.81,0,0,0,0,
+POL-11303,49,Kuala Lumpur,Medical & Health,8,233.96,0,1,1,0,
+POL-11304,38,kuala lumpur,Motor Comprehensive,55,120.24,0,0,0,0,
+POL-11305,21,Johor,Investment-Linked,87,259.44,0,0,1,0,
+POL-11306,30,Kuala Lumpur,Motor Comprehensive,29,86.67,0,1,1,0,
+POL-11307,55,Kuala Lumpur,Investment-Linked,43,312.6,0,0,0,0,
+POL-11308,21,Penang,Life Protection,50,93.73,1,2,1,1,Premium too expensive
+POL-11309,37,Selangor,Motor Comprehensive,76,170.63,1,1,1,0,
+POL-11310,28,Selangor,Medical & Health,85,230.22,2,0,0,0,
+POL-11311,50,Selangor,Medical & Health,5,208.43,0,1,2,0,
+POL-11312,34,Penang,Motor Comprehensive,17,69.4,1,1,1,0,
+POL-11313,45,Selangor,Medical & Health,27,133.11,2,,0,0,
+POL-11314,47, Penang ,Investment-Linked,15,379.78,1,0,0,0,
+POL-11315,61,Sarawak,Motor Comprehensive,22,196.39,0,0,1,0,
+POL-11316,39,Johor,Investment-Linked,35,319.1,0,0,1,1,Relocated or moved abroad
+POL-11317,45, Selangor ,Life Protection,35,198.57,0,2,1,0,
+POL-11318,25,Johor,Life Protection,49,141.91,0,1,0,1,Relocated or moved abroad
+POL-11319,54,Selangor,Motor Comprehensive,27,121.67,0,0,0,0,
+POL-11320,33,Selangor,Medical & Health,2,284.51,0,2,0,1,No longer needs coverage
+POL-11321,35,Selangor,Life Protection,20,146.74,0,0,0,0,
+POL-11322,41,SELANGOR,Motor Comprehensive,33,100.98,1,1,3,1,Relocated or moved abroad
+POL-11323,24,KUALA LUMPUR,Investment-Linked,51,541.69,0,0,1,0,
+POL-11324,44,Selangor,Motor Comprehensive,47,121.37,0,0,1,0,
+POL-11325,52,kuala lumpur,Medical & Health,24,275.86,1,0,0,1,No longer needs coverage
+POL-11326,44,Selangor,Life Protection,16,134.81,1,0,0,0,
+POL-11327,24,Selangor,Motor Comprehensive,25,170.57,0,2,1,1,Premium too expensive
+POL-11328,40,Sarawak,Medical & Health,5,224.87,1,5,2,1,Poor customer service
+POL-11329,49,Kuala Lumpur,Life Protection,17,178.37,0,0,0,0,
+POL-11330,21,Johor,Medical & Health,58,217.03,0,0,0,0,
+POL-11331,29,SELANGOR,Medical & Health,25,185.07,0,0,1,0,
+POL-11332,51,Kuala Lumpur,Life Protection,34,159.93,0,2,1,1,Poor customer service
+POL-11333,44,Kuala Lumpur,Medical & Health,8,188,0,2,4,1,Competitor offered better price
+POL-11334,46,Kuala Lumpur,Motor Comprehensive,51,152.53,2,1,1,0,
+POL-11335,61,Kuala Lumpur,Medical & Health,24,199.61,0,0,0,0,
+POL-11336,46,Kuala Lumpur,Motor Comprehensive,33,82.55,1,0,1,0,
+POL-11337,48, Selangor ,Medical & Health,38,138,1,1,0,1,No longer needs coverage
+POL-11338,70, Selangor ,Investment-Linked,50,246.78,2,0,1,0,
+POL-11339,39,Kuala Lumpur,Medical & Health,30,245.08,1,2,0,0,
+POL-11340,32,Kuala Lumpur,Life Protection,24,119.98,1,0,0,0,
+POL-11341,46,Kuala Lumpur,Life Protection,10,172.47,0,,0,1,Poor customer service
+POL-11342,46,selangor,Medical & Health,7,217.29,0,1,0,1,Relocated or moved abroad
+POL-11343,35,Selangor,Life Protection,29,157.43,1,1,0,0,
+POL-11344,30,Selangor,Motor Comprehensive,33,133.9,0,1,1,0,
+POL-11345,66,Kuala Lumpur,Investment-Linked,37,395.34,1,1,0,1,Relocated or moved abroad
+POL-11346,45,Kuala Lumpur,Life Protection,14,81.27,0,1,0,1,No longer needs coverage
+POL-11347,33,Sarawak,Medical & Health,17,193.68,0,0,1,0,
+POL-11348,51,kuala lumpur,Motor Comprehensive,29,133.46,1,0,1,0,
+POL-11349,40,Kuala Lumpur,Motor Comprehensive,19,180.83,0,0,1,0,
+POL-11350,38,Kuala Lumpur,Medical & Health,109,320.13,1,0,0,0,
+POL-11351,47,Sarawak,Motor Comprehensive,17,85.35,0,2,2,0,
+POL-11352,27,Johor,Life Protection,35,146.61,0,0,2,1,Poor customer service
+POL-11353,45,Johor,Motor Comprehensive,46,81.12,1,0,0,0,
+POL-11354,62,Sarawak,Life Protection,48,233.96,0,,0,0,
+POL-11355,46,Kuala Lumpur,Life Protection,19,206.11,0,0,0,0,
+POL-11356,37,Sarawak,Medical & Health,39,229.24,0,0,0,0,
+POL-11357,35,Kuala Lumpur,Motor Comprehensive,35,125.09,1,,0,0,
+POL-11358,36,Johor,Medical & Health,40,296.56,3,1,1,0,
+POL-11359,38,SELANGOR,Motor Comprehensive,29,162.44,0,0,0,0,
+POL-11360,37,Selangor,Motor Comprehensive,46,160.29,2,1,0,0,
+POL-11361,51,Sarawak,Motor Comprehensive,31,134.51,0,1,0,0,
+POL-11362,22,Kuala Lumpur,Medical & Health,9,192.44,0,2,1,1,No longer needs coverage
+POL-11363,50,Sarawak,Medical & Health,31,254.4,1,1,1,0,
+POL-11364,37,Selangor,Life Protection,33,196.21,1,0,1,0,
+POL-11365,45, Johor ,Motor Comprehensive,44,114.42,1,1,1,0,
+POL-11366,29,Sarawak,Investment-Linked,29,348.05,0,0,0,0,
+POL-11367,56,Kuala Lumpur,Life Protection,78,212.41,0,0,0,0,
+POL-11368,55,Sarawak,Investment-Linked,25,576.05,1,0,1,0,
+POL-11369,52,Selangor,Medical & Health,18,174.12,2,2,0,0,
+POL-11370,24,Johor,Life Protection,63,149.8,3,1,1,0,
+POL-11371,50,Kuala Lumpur,Medical & Health,24,229.26,0,,0,0,
+POL-11372,45,SELANGOR,Motor Comprehensive,28,135.52,1,0,1,1,Premium too expensive
+POL-11373,23,Johor,Medical & Health,33,184.29,0,0,1,0,
+POL-11374,41,Selangor,Medical & Health,31,336.29,2,0,1,1,Poor customer service
+POL-11375,45,Kuala Lumpur,Motor Comprehensive,39,133.36,0,2,4,0,
+POL-11376,47,kuala lumpur,Life Protection,42,182.73,1,0,0,0,
+POL-11377,43,Penang,Medical & Health,17,325.98,0,0,0,0,
+POL-11378,44,kuala lumpur,Medical & Health,11,187.7,1,2,0,0,
+POL-11379,57,Johor,Life Protection,12,156.5,0,1,0,0,
+POL-11380,54,Sarawak,Life Protection,58,116.96,1,1,0,0,
+POL-11381,21,Kuala Lumpur,Medical & Health,23,201.14,0,0,1,1,Premium too expensive
+POL-11382,38, Kuala Lumpur ,Motor Comprehensive,46,82.7,2,1,1,1,Poor customer service
+POL-11383,39,Johor,Medical & Health,43,253.17,0,0,1,0,
+POL-11384,22,Kuala Lumpur,Motor Comprehensive,28,133.29,0,1,2,0,
+POL-11385,42,Johor,Life Protection,13,149.29,0,0,0,0,
+POL-11386,55,Johor,Medical & Health,44,204.79,0,2,3,0,
+POL-11387,29,Johor,Medical & Health,27,254.04,0,2,4,0,
+POL-11388,45,SELANGOR,Medical & Health,10,158.09,1,1,0,0,
+POL-11389,31,johor,Medical & Health,19,221,1,2,0,1,Claim rejected or dissatisfied
+POL-11390,34,Johor,Life Protection,7,190.58,2,1,0,1,No longer needs coverage
+POL-11391,57,KUALA LUMPUR,Investment-Linked,20,243.37,0,0,2,0,
+POL-11392,35,Selangor,Motor Comprehensive,29,142.41,1,1,0,0,
+POL-11393,46,Sarawak,Life Protection,25,105.28,0,1,0,0,
+POL-11394,21,Johor,Motor Comprehensive,23,116.52,0,1,2,0,
+POL-11395,61,Selangor,Motor Comprehensive,28,89.72,1,1,0,0,
+POL-11396,48,Selangor,Motor Comprehensive,38,171.62,1,1,1,0,
+POL-11397,39,Kuala Lumpur,Medical & Health,48,157.25,1,1,2,1,Claim rejected or dissatisfied
+POL-11398,47,Kuala Lumpur,Medical & Health,52,139.01,2,1,1,1,Poor customer service
+POL-11399,25,Kuala Lumpur,Life Protection,15,165.42,0,0,0,0,
+POL-11400,54,Sarawak,Medical & Health,56,189.37,2,1,0,0,
+POL-11401,37,Kuala Lumpur,Life Protection,27,109.84,0,2,0,0,
+POL-11402,39,Penang,Investment-Linked,21,433.38,0,1,0,0,
+POL-11403,36,Kuala Lumpur,Investment-Linked,12,230.97,0,1,1,1,Relocated or moved abroad
+POL-11404,35,Selangor,Medical & Health,2,162.07,0,1,1,0,
+POL-11405,49, Selangor ,Life Protection,36,138.57,0,0,0,0,
+POL-11406,44,selangor,Life Protection,35,195.53,0,1,0,0,
+POL-11407,48,Penang,Life Protection,18,221.19,2,1,0,0,
+POL-11408,41, Sarawak ,Motor Comprehensive,18,158.09,1,0,3,0,
+POL-11409,47,Penang,Medical & Health,24,202.11,0,1,0,0,
+POL-11410,36,Kuala Lumpur,Motor Comprehensive,21,65.41,1,1,0,0,
+POL-11411,66,penang,Investment-Linked,15,419.01,0,0,1,0,
+POL-11412,24,Kuala Lumpur,Motor Comprehensive,11,173.32,2,0,0,1,Claim rejected or dissatisfied
+POL-11413,55,Sarawak,Motor Comprehensive,56,163.36,1,1,2,0,
+POL-11414,56,Selangor,Life Protection,19,179.63,0,1,0,1,Competitor offered better price
+POL-11415,32,Selangor,Life Protection,35,118.84,0,0,0,1,Competitor offered better price
+POL-11416,66,Kuala Lumpur,Medical & Health,40,184.16,0,0,0,0,
+POL-11417,52,Kuala Lumpur,Motor Comprehensive,36,194.6,1,0,1,1,Premium too expensive
+POL-11418,52,kuala lumpur,Medical & Health,41,147.37,0,1,0,0,
+POL-11419,41,Sarawak,Motor Comprehensive,36,90.06,2,0,1,0,
+POL-11420,39,Penang,Life Protection,16,202.51,0,0,1,0,
+POL-11421,39,Sarawak,Life Protection,22,143.65,0,0,0,0,
+POL-11422,45, Kuala Lumpur ,Life Protection,55,119.07,1,1,0,1,Premium too expensive
+POL-11423,56,Johor,Investment-Linked,18,556.78,1,0,1,1,Poor customer service
+POL-11424,43,Kuala Lumpur,Medical & Health,27,235.66,0,0,0,0,
+POL-11425,31,Selangor,Medical & Health,38,190.88,0,1,2,1,Poor customer service
+POL-11426,50,Selangor,Medical & Health,68,157.7,1,0,3,0,
+POL-11427,51,Selangor,Motor Comprehensive,52,200.21,0,0,0,1,Competitor offered better price
+POL-11428,48,Selangor,Investment-Linked,13,377.68,1,1,0,1,No longer needs coverage
+POL-11429,49,Kuala Lumpur,Medical & Health,34,297.81,0,1,0,0,
+POL-11430,38,Selangor,Investment-Linked,32,475.13,0,0,0,0,
+POL-11431,31,Johor,Medical & Health,22,184.36,0,0,0,0,
+POL-11432,31,Kuala Lumpur,Motor Comprehensive,28,105.56,1,0,0,0,
+POL-11433,23,Sarawak,Medical & Health,16,301.47,0,1,2,0,
+POL-11434,44, Selangor ,Life Protection,24,230.63,1,0,1,0,
+POL-11435,40,Penang,Motor Comprehensive,19,75.06,0,0,0,0,
+POL-11436,36,Johor,Life Protection,29,183.57,1,0,0,1,Premium too expensive
+POL-11437,21,Johor,Medical & Health,21,203.73,2,1,1,0,
+POL-11438,27,Johor,Motor Comprehensive,71,92.68,2,1,1,0,
+POL-11439,53,PENANG,Investment-Linked,30,405.7,1,0,2,1,Claim rejected or dissatisfied
+POL-11440,34,Johor,Life Protection,26,114.18,0,0,1,0,
+POL-11441,45,Kuala Lumpur,Motor Comprehensive,23,106.79,1,,1,0,
+POL-11442,26,Kuala Lumpur,Motor Comprehensive,21,98.29,0,0,0,0,
+POL-11443,57,Johor,Medical & Health,10,185.33,0,1,0,1,No longer needs coverage
+POL-11444,39,Kuala Lumpur,Investment-Linked,45,373.27,0,,1,1,Poor customer service
+POL-11445,44, Kuala Lumpur ,Medical & Health,63,162.91,3,1,1,0,
+POL-11446,67,Kuala Lumpur,Motor Comprehensive,18,177.82,0,0,1,0,
+POL-11447,58,Selangor,Medical & Health,55,237.56,1,1,1,0,
+POL-11448,38,Kuala Lumpur,Medical & Health,109,328.9,2,0,1,1,Poor customer service
+POL-11449,34,Johor,Life Protection,85,153.72,0,3,0,0,
+POL-11450,37,penang,Life Protection,61,139.49,1,0,0,0,
+POL-11451,47,Penang,Investment-Linked,11,589.8,1,1,1,0,
+POL-11452,40,Selangor,Investment-Linked,11,328.87,0,0,0,1,Premium too expensive
+POL-11453,37,Selangor,Medical & Health,41,200.85,1,0,0,0,
+POL-11454,57, Selangor ,Medical & Health,27,251.42,0,0,0,0,
+POL-11455,40,Selangor,Life Protection,4,117.42,2,0,1,0,
+POL-11456,66,Johor,Life Protection,20,191.14,1,1,1,0,
+POL-11457,42,Kuala Lumpur,Life Protection,40,185.12,0,0,0,0,
+POL-11458,61,Sarawak,Investment-Linked,24,521.91,0,1,1,0,
+POL-11459,45,kuala lumpur,Motor Comprehensive,27,149.91,0,0,1,0,
+POL-11460,52,Penang,Medical & Health,11,290.64,0,3,0,1,No longer needs coverage
+POL-11461,33,Johor,Life Protection,20,155.64,0,0,1,0,
+POL-11462,32,kuala lumpur,Motor Comprehensive,41,96.72,1,1,2,0,
+POL-11463,46,Johor,Life Protection,19,271.15,1,1,0,0,
+POL-11464,52,kuala lumpur,Medical & Health,58,143.37,1,2,1,0,
+POL-11465,41,Penang,Life Protection,28,112.01,2,2,1,0,
+POL-11466,27,Johor,Life Protection,36,184.28,0,2,0,0,
+POL-11467,26, Kuala Lumpur ,Medical & Health,41,315.25,0,0,0,0,
+POL-11468,25, Kuala Lumpur ,Motor Comprehensive,40,125.82,1,0,1,0,
+POL-11469,22,Penang,Life Protection,13,205.41,0,1,1,0,
+POL-11470,42,Selangor,Motor Comprehensive,15,72.86,1,,1,0,
+POL-11471,53,Sarawak,Life Protection,4,141.22,0,0,0,1,No longer needs coverage
+POL-11472,41,Penang,Investment-Linked,22,237.86,3,0,0,0,
+POL-11473,21,johor,Medical & Health,14,255.24,0,1,1,1,No longer needs coverage
+POL-11474,39,Kuala Lumpur,Medical & Health,19,142.64,0,1,0,0,
+POL-11475,39,johor,Life Protection,23,116.25,0,1,1,0,
+POL-11476,64,Sarawak,Life Protection,30,181.94,0,0,1,1,Premium too expensive
+POL-11477,25,Kuala Lumpur,Medical & Health,24,273.85,2,1,0,0,
+POL-11478,37, Selangor ,Motor Comprehensive,24,115.32,0,0,1,0,
+POL-11479,60,Kuala Lumpur,Medical & Health,34,242.17,0,1,1,0,
+POL-11480,46,Selangor,Medical & Health,26,240.22,0,0,0,0,
+POL-11481,47,Johor,Life Protection,48,151.61,1,1,1,1,Poor customer service
+POL-11482,42,selangor,Motor Comprehensive,26,91.27,1,0,0,1,Competitor offered better price
+POL-11483,45,Selangor,Investment-Linked,68,437.64,0,0,0,0,
+POL-11484,50, Selangor ,Motor Comprehensive,12,139.88,1,2,0,1,Poor customer service
+POL-11485,32,kuala lumpur,Motor Comprehensive,21,150.05,0,1,0,0,
+POL-11486,51,kuala lumpur,Motor Comprehensive,16,129.74,1,1,3,0,
+POL-11487,26,Penang,Motor Comprehensive,31,89.6,0,2,1,0,
+POL-11488,45, Johor ,Medical & Health,12,249.56,0,1,2,0,
+POL-11489,43,SELANGOR,Motor Comprehensive,8,119.96,0,0,0,0,
+POL-11490,34,Penang,Motor Comprehensive,14,106.36,0,2,1,0,
+POL-11491,41,Kuala Lumpur,Life Protection,9,148.64,0,0,0,0,
+POL-11492,34,Kuala Lumpur,Motor Comprehensive,23,100.98,2,1,1,0,
+POL-11493,29,Kuala Lumpur,Life Protection,30,199.81,0,0,1,0,
+POL-11494,37,Sarawak,Life Protection,7,112.24,0,,0,1,Relocated or moved abroad
+POL-11495,29,Johor,Medical & Health,20,163.81,0,0,0,0,
+POL-11496,45,Johor,Motor Comprehensive,52,110.53,0,1,0,0,
+POL-11497,28,Kuala Lumpur,Investment-Linked,61,568.85,1,2,1,1,Premium too expensive
+POL-11498,49,Kuala Lumpur,Medical & Health,43,273.33,1,3,1,1,Premium too expensive
+POL-11499,28,Johor,Life Protection,3,106.16,1,1,0,1,Premium too expensive
